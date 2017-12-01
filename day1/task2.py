@@ -7,12 +7,10 @@ if __name__ == '__main__':
     print(str_list)
 
     sum = 0
+    steps = int(len(str_list) / 2)
 
-    if str_list[0] == str_list[len(str_list) - 1]:
-        sum += int(str_list[0])
-
-    for i in range(0, len(str_list) - 1):
-        if str_list[i] == str_list[i + 1]:
+    for i in range(0, len(str_list)):
+        if str_list[i] == str_list[(i + steps) % (len(str_list))]:
             sum += int(str_list[i])
 
     print(sum)
