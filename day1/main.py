@@ -1,18 +1,26 @@
 import sys
 
 if __name__ == '__main__':
-    input = sys.stdin.readlines()
 
-    str_list = list(input[0].strip())
-    print(str_list)
+    input = sys.stdin.read().strip()
 
+    # Part 1
     sum = 0
+    last = input[-1]
 
-    if str_list[0] == str_list[len(str_list) - 1]:
-        sum += int(str_list[0])
+    for i in input:
+        if i == last:
+            sum += int(i)
+        last = i
 
-    for i in range(0, len(str_list) - 1):
-        if str_list[i] == str_list[i + 1]:
-            sum += int(str_list[i])
+    print("solution task1: ", sum)
 
-    print(sum)
+    # Part 2
+    sum = 0
+    steps = int(len(input) / 2)
+
+    for i, j in enumerate(input):
+        if j == input[(i + steps) % len(input)]:
+            sum += int(j)
+
+    print("solution task2: ", sum)
