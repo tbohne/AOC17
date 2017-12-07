@@ -9,7 +9,10 @@ if __name__ == '__main__':
     solutions = []
     redistributions = 0
 
-    while True:
+    finished = False
+    val = 0
+
+    while not finished:
         print(arr)
         max_num = max(arr)
         print("max num: ", max_num)
@@ -26,10 +29,13 @@ if __name__ == '__main__':
 
         redistributions += 1
 
-        if arr in solutions:
-            print("already in there")
-            break
+        for (key, value) in solutions:
+            if key == arr:
+                print("already in there")
+                finished = True
+                val = value
 
-        solutions.append(arr.copy())
+        solutions.append((arr.copy(), redistributions))
 
     print("number of redistributions: ", redistributions)
+    print("number of redistributions between: ", redistributions - val)
