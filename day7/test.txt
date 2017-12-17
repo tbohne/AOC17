@@ -1,0 +1,3048 @@
+solution part1:  bpvhwhh
+bpvhwhh (60)
+REC bpvhwhh (60)
+REC lzfgxlb (46434)
+REC ipnia (88)
+REC ichekvx (2035)
+REC yfccf (64)
+REC  acxsu (35)
+REC  okcbif (35)
+END REC:  yfccf (64)  weight:  134
+REC mhuwxy (40)
+REC  ybuimo (47)
+REC  vtuldjj (47)
+END REC:  mhuwxy (40)  weight:  134
+REC rvbxe (120)
+REC  hwcdujm (7)
+REC  cdeyze (7)
+END REC:  rvbxe (120)  weight:  134
+REC  yfccf (64)
+REC  mhuwxy (40)
+REC  rvbxe (120)
+END REC:  ichekvx (2035)  weight:  2259
+REC uepkk (1821)
+REC spiel (126)
+REC  kpxbfji (14)
+REC  ynnqnnu (14)
+END REC:  spiel (126)  weight:  154
+REC zkkwvo (140)
+REC  kpcwye (7)
+REC  tefvwb (7)
+END REC:  zkkwvo (140)  weight:  154
+REC opwdy (142)
+REC  rjohk (6)
+REC  apkxv (6)
+END REC:  opwdy (142)  weight:  154
+REC bvfbjdr (19)
+REC  kyofjtt (45)
+REC  bmrwsem (45)
+REC  rgqohx (45)
+END REC:  bvfbjdr (19)  weight:  154
+REC  spiel (126)
+REC  zkkwvo (140)
+REC  opwdy (142)
+REC  bvfbjdr (19)
+END REC:  uepkk (1821)  weight:  2248
+REC agzekk (1759)
+REC ogomr (198)
+REC  wlnvlvv (14)
+REC  wccui (14)
+END REC:  ogomr (198)  weight:  226
+REC kkyycy (34)
+REC  cncssy (48)
+REC  oajts (48)
+REC  oufwlo (48)
+REC  qxnuybx (48)
+END REC:  kkyycy (34)  weight:  226
+REC wqvnr (78)
+REC  mgpvr (74)
+REC  nyeqnad (74)
+END REC:  wqvnr (78)  weight:  226
+REC  ogomr (198)
+REC  kkyycy (34)
+REC  wqvnr (78)
+END REC:  agzekk (1759)  weight:  2069
+REC isdwz (43)
+REC hmfozm (266)
+REC  hwwea (38)
+REC  ooike (38)
+END REC:  hmfozm (266)  weight:  342
+REC zfeudr (14)
+REC  uylkjb (82)
+REC  jroccc (82)
+REC  zzdnotv (82)
+REC  palhxo (82)
+END REC:  zfeudr (14)  weight:  342
+REC inzfb (168)
+REC  xxsterg (87)
+REC  wozvywq (87)
+END REC:  inzfb (168)  weight:  342
+REC pvtbmzi (302)
+REC  ppjmufh (20)
+REC  hhxwcq (20)
+END REC:  pvtbmzi (302)  weight:  342
+REC gzuvfqc (186)
+REC  kvmhp (52)
+REC  niubs (52)
+REC  fbnge (52)
+END REC:  gzuvfqc (186)  weight:  342
+REC aahwvmb (226)
+REC  auhjkqg (58)
+REC  pgxppw (58)
+END REC:  aahwvmb (226)  weight:  342
+REC wxakfgm (246)
+REC  khlwul (48)
+REC  pkmsa (48)
+END REC:  wxakfgm (246)  weight:  342
+REC  hmfozm (266)
+REC  zfeudr (14)
+REC  inzfb (168)
+REC  pvtbmzi (302)
+REC  gzuvfqc (186)
+REC  aahwvmb (226)
+REC  wxakfgm (246)
+END REC:  isdwz (43)  weight:  1451
+REC nwfivan (1663)
+REC ljgrn (206)
+REC  jvkuwnl (26)
+REC  acdth (26)
+END REC:  ljgrn (206)  weight:  258
+REC kxudhlx (66)
+REC  eqqouz (64)
+REC  uwklen (64)
+REC  uopfe (64)
+END REC:  kxudhlx (66)  weight:  258
+REC kppjorc (105)
+REC  heioj (51)
+REC  jdoysh (51)
+REC  vdbds (51)
+END REC:  kppjorc (105)  weight:  258
+REC  ljgrn (206)
+REC  kxudhlx (66)
+REC  kppjorc (105)
+END REC:  nwfivan (1663)  weight:  2040
+REC ashso (637)
+REC hjhcc (210)
+REC  ofnfoy (75)
+REC  icwxs (75)
+END REC:  hjhcc (210)  weight:  360
+REC xouweh (148)
+REC  vfisys (53)
+REC  leblg (53)
+REC  usrgham (53)
+REC  mkxgloe (53)
+END REC:  xouweh (148)  weight:  360
+REC fwmowjn (338)
+REC  ynaeh (11)
+REC  hxzlw (11)
+END REC:  fwmowjn (338)  weight:  360
+REC vgpxi (304)
+REC  ertcv (28)
+REC  mzxret (28)
+END REC:  vgpxi (304)  weight:  360
+REC sfovf (99)
+REC  xcmjo (87)
+REC  btfdruj (87)
+REC  priuy (87)
+END REC:  sfovf (99)  weight:  360
+REC  hjhcc (210)
+REC  xouweh (148)
+REC  fwmowjn (338)
+REC  vgpxi (304)
+REC  sfovf (99)
+END REC:  ashso (637)  weight:  1736
+REC niziq (1492)
+REC vxzlg (69)
+REC  phawl (82)
+REC  xjqlt (82)
+REC  iyqvz (82)
+END REC:  vxzlg (69)  weight:  315
+REC gxrxqy (227)
+REC  cbeoz (44)
+REC  xzghryr (44)
+END REC:  gxrxqy (227)  weight:  315
+REC  gcbftk (315)
+REC  vxzlg (69)
+REC  gxrxqy (227)
+END REC:  niziq (1492)  weight:  2103
+REC  ichekvx (2035)
+REC  uepkk (1821)
+REC  agzekk (1759)
+REC  isdwz (43)
+REC  nwfivan (1663)
+REC  ashso (637)
+REC  niziq (1492)
+END REC:  ipnia (88)  weight:  9538
+REC qmjdqb (9998)
+REC qazjql (1323)
+REC ldxjzcc (69)
+REC  bgnlm (98)
+REC  bzlaig (98)
+END REC:  ldxjzcc (69)  weight:  265
+REC svyuvhk (137)
+REC  iapwe (64)
+REC  evvgx (64)
+END REC:  svyuvhk (137)  weight:  265
+REC nemqds (77)
+REC  uesje (94)
+REC  khyng (94)
+END REC:  nemqds (77)  weight:  265
+REC cdvkf (100)
+REC  vbanwb (55)
+REC  mnpbbxc (55)
+REC  jfgsa (55)
+END REC:  cdvkf (100)  weight:  265
+REC  ldxjzcc (69)
+REC  svyuvhk (137)
+REC  nemqds (77)
+REC  cdvkf (100)
+END REC:  qazjql (1323)  weight:  1706
+REC yklbe (1599)
+REC fhoohx (76)
+REC  psfmvag (60)
+REC  clxelo (60)
+END REC:  fhoohx (76)  weight:  196
+REC ytnhd (112)
+REC  jdhzdw (21)
+REC  pyvum (21)
+REC  qxiutp (21)
+REC  yjcytj (21)
+END REC:  ytnhd (112)  weight:  196
+REC mzmwtg (110)
+REC  bbgkrav (43)
+REC  yzcgrkk (43)
+END REC:  mzmwtg (110)  weight:  196
+REC  fyijlyp (196)
+REC  fhoohx (76)
+REC  ytnhd (112)
+REC  mzmwtg (110)
+END REC:  yklbe (1599)  weight:  2093
+REC jkzcn (37)
+REC muvax (202)
+REC  rxvyryq (63)
+REC  spriicr (63)
+REC  akhsran (63)
+END REC:  muvax (202)  weight:  391
+REC gjfhtl (115)
+REC  pzzmg (69)
+REC  flgkko (69)
+REC  xddgt (69)
+REC  kepyvd (69)
+END REC:  gjfhtl (115)  weight:  391
+REC lqgal (317)
+REC  uivra (37)
+REC  izzpwi (37)
+END REC:  lqgal (317)  weight:  391
+REC mchmeiz (303)
+REC  dfqzdr (44)
+REC  nngnivo (44)
+END REC:  mchmeiz (303)  weight:  391
+REC belfq (79)
+REC  yknoisw (78)
+REC  ezaywf (78)
+REC  gyftdi (78)
+REC  ssurqjb (78)
+END REC:  belfq (79)  weight:  391
+REC  muvax (202)
+REC  gjfhtl (115)
+REC  tijgqz (391)
+REC  lqgal (317)
+REC  mchmeiz (303)
+REC  belfq (79)
+END REC:  jkzcn (37)  weight:  1444
+REC  qazjql (1323)
+REC  yklbe (1599)
+REC  jkzcn (37)
+END REC:  qmjdqb (9998)  weight:  12957
+REC dnzxj (13016)
+REC nyeck (696)
+REC fjtqmt (35)
+REC  dkaaia (96)
+REC  tllopby (96)
+END REC:  fjtqmt (35)  weight:  227
+REC tpgwqt (37)
+REC  ulwtqfp (95)
+REC  wupujt (95)
+END REC:  tpgwqt (37)  weight:  227
+REC  fjtqmt (35)
+REC  tpgwqt (37)
+REC  kzqki (227)
+END REC:  nyeck (696)  weight:  995
+REC tilip (789)
+REC crstch (124)
+REC  fudyri (24)
+REC  rkkuowi (24)
+REC  jlekzzy (24)
+END REC:  crstch (124)  weight:  196
+REC taron (86)
+REC  xsehs (55)
+REC  nbxyhp (55)
+END REC:  taron (86)  weight:  196
+REC  hewqufa (196)
+REC  crstch (124)
+REC  taron (86)
+END REC:  tilip (789)  weight:  1195
+REC djdztah (18)
+REC kjqwac (61)
+REC  esnxvu (98)
+REC  kzbfyep (98)
+REC  ammlo (98)
+REC  bedla (98)
+END REC:  kjqwac (61)  weight:  453
+REC bwszv (347)
+REC  pmmwcg (53)
+REC  jowbm (53)
+END REC:  bwszv (347)  weight:  453
+REC dutiad (403)
+REC  yugdmgx (25)
+REC  cytbrv (25)
+END REC:  dutiad (403)  weight:  453
+REC  kjqwac (61)
+REC  bwszv (347)
+REC  dutiad (403)
+END REC:  djdztah (18)  weight:  829
+REC  nyeck (696)
+REC  tilip (789)
+REC  djdztah (18)
+END REC:  dnzxj (13016)  weight:  14519
+REC ddotjil (6045)
+REC ptagt (1325)
+REC vuujvxl (27)
+REC  dnwlbpp (30)
+REC  giwtr (30)
+END REC:  vuujvxl (27)  weight:  87
+REC snlcnb (45)
+REC  smxutcp (14)
+REC  cdyfyx (14)
+REC  itjoisx (14)
+END REC:  snlcnb (45)  weight:  87
+REC  vuujvxl (27)
+REC  sdskev (87)
+REC  snlcnb (45)
+END REC:  ptagt (1325)  weight:  1484
+REC ikrdl (478)
+REC gkgbww (235)
+REC  epvrmk (21)
+REC  bajeppo (21)
+END REC:  gkgbww (235)  weight:  277
+REC pjtywfh (99)
+REC  fopaifs (89)
+REC  zczzj (89)
+END REC:  pjtywfh (99)  weight:  277
+REC orecwx (142)
+REC  pvbqjz (45)
+REC  dxclu (45)
+REC  puozu (45)
+END REC:  orecwx (142)  weight:  277
+REC goyyy (169)
+REC  zmyeh (54)
+REC  tdhba (54)
+END REC:  goyyy (169)  weight:  277
+REC  gkgbww (235)
+REC  pjtywfh (99)
+REC  orecwx (142)
+REC  goyyy (169)
+END REC:  ikrdl (478)  weight:  1123
+REC swotlas (869)
+REC vlajq (157)
+REC  aosedtz (41)
+REC  vescu (41)
+END REC:  vlajq (157)  weight:  239
+REC rkyrvy (14)
+REC  mweaj (75)
+REC  vrvhkwg (75)
+REC  vcjjb (75)
+END REC:  rkyrvy (14)  weight:  239
+REC  vlajq (157)
+REC  rkyrvy (14)
+REC  ddqvjcz (239)
+END REC:  swotlas (869)  weight:  1279
+REC ajnug (944)
+REC wvstx (178)
+REC  uhteq (12)
+REC  rzeyzb (12)
+REC  ajxbw (12)
+END REC:  wvstx (178)  weight:  214
+REC wscmp (42)
+REC  eyyypjs (86)
+REC  opxtj (86)
+END REC:  wscmp (42)  weight:  214
+REC ritcku (120)
+REC  liqfvgz (47)
+REC  dkzjztp (47)
+END REC:  ritcku (120)  weight:  214
+REC  wvstx (178)
+REC  wscmp (42)
+REC  ritcku (120)
+END REC:  ajnug (944)  weight:  1284
+REC gphzut (38)
+REC epxnk (98)
+REC  fksbg (80)
+REC  zksrdel (80)
+END REC:  epxnk (98)  weight:  258
+REC dxogq (246)
+REC  lhxrely (6)
+REC  iimosg (6)
+END REC:  dxogq (246)  weight:  258
+REC vtryv (210)
+REC  fkdnk (24)
+REC  dlqfl (24)
+END REC:  vtryv (210)  weight:  258
+REC ibphxp (150)
+REC  agczxc (54)
+REC  ylxvd (54)
+END REC:  ibphxp (150)  weight:  258
+REC qabjz (98)
+REC  pzjusto (40)
+REC  uwjqmt (40)
+REC  ndynhq (40)
+REC  jbvxahe (40)
+END REC:  qabjz (98)  weight:  258
+REC kiocz (78)
+REC  phcqjf (90)
+REC  gncec (90)
+END REC:  kiocz (78)  weight:  258
+REC  epxnk (98)
+REC  dxogq (246)
+REC  vtryv (210)
+REC  ibphxp (150)
+REC  qabjz (98)
+REC  kiocz (78)
+END REC:  gphzut (38)  weight:  918
+REC xosbped (446)
+REC llpwnd (155)
+REC  slhqnia (65)
+REC  mdvfsjt (65)
+END REC:  llpwnd (155)  weight:  285
+REC upzddgb (95)
+REC  jauss (95)
+REC  vchbwy (95)
+END REC:  upzddgb (95)  weight:  285
+REC yvaua (107)
+REC  fnxgxy (89)
+REC  fiiscny (89)
+END REC:  yvaua (107)  weight:  285
+REC qfpunan (189)
+REC  bbelj (48)
+REC  nrvdexu (48)
+END REC:  qfpunan (189)  weight:  285
+REC  llpwnd (155)
+REC  upzddgb (95)
+REC  yvaua (107)
+REC  qfpunan (189)
+END REC:  xosbped (446)  weight:  992
+REC rtiwxq (154)
+REC gpxam (256)
+REC  krythkn (51)
+REC  pnmirw (51)
+END REC:  gpxam (256)  weight:  358
+REC yauum (46)
+REC  llzboz (78)
+REC  lzrav (78)
+REC  mwofrtn (78)
+REC  kflwup (78)
+END REC:  yauum (46)  weight:  358
+REC dszjuo (302)
+REC  bxcfhgy (28)
+REC  mracmcq (28)
+END REC:  dszjuo (302)  weight:  358
+REC  gpxam (256)
+REC  yauum (46)
+REC  dszjuo (302)
+REC  tfwgxrq (358)
+END REC:  rtiwxq (154)  weight:  1116
+REC  ptagt (1325)
+REC  ikrdl (478)
+REC  swotlas (869)
+REC  ajnug (944)
+REC  gphzut (38)
+REC  xosbped (446)
+REC  rtiwxq (154)
+END REC:  ddotjil (6045)  weight:  10299
+REC  ipnia (88)
+REC  qmjdqb (9998)
+REC  dnzxj (13016)
+REC  ddotjil (6045)
+END REC:  lzfgxlb (46434)  weight:  75581
+REC fzclaow (61)
+REC hnuck (10755)
+REC bbshy (355)
+REC dcmlo (50)
+REC  obsmut (76)
+REC  upfebsl (76)
+REC  atart (76)
+REC  etlozv (76)
+END REC:  dcmlo (50)  weight:  354
+REC mnetsv (260)
+REC  zwwlue (47)
+REC  wbqsg (47)
+END REC:  mnetsv (260)  weight:  354
+REC  dcmlo (50)
+REC  mnetsv (260)
+REC  sctwm (354)
+END REC:  bbshy (355)  weight:  1019
+REC fffuhf (647)
+REC jjeyyc (40)
+REC  gblchqc (57)
+REC  hpygxqx (57)
+END REC:  jjeyyc (40)  weight:  154
+REC ccjrwmk (56)
+REC  qewogca (49)
+REC  qrybtpr (49)
+END REC:  ccjrwmk (56)  weight:  154
+REC jrilj (142)
+REC  kewvll (6)
+REC  khaofpf (6)
+END REC:  jrilj (142)  weight:  154
+REC jgysg (140)
+REC  jyuiboq (7)
+REC  dywaqyt (7)
+END REC:  jgysg (140)  weight:  154
+REC pmmzezq (32)
+REC  llqdavt (61)
+REC  ymyhnhz (61)
+END REC:  pmmzezq (32)  weight:  154
+REC  jjeyyc (40)
+REC  ccjrwmk (56)
+REC  jrilj (142)
+REC  jgysg (140)
+REC  pmmzezq (32)
+END REC:  fffuhf (647)  weight:  1057
+REC qnaxzd (5)
+REC ofmsbwz (247)
+REC  yzglw (53)
+REC  foqcvf (53)
+END REC:  ofmsbwz (247)  weight:  353
+REC veeafpm (157)
+REC  nvwje (98)
+REC  mfblbq (98)
+END REC:  veeafpm (157)  weight:  353
+REC rmjchv (45)
+REC  bqlsax (77)
+REC  hrjkg (77)
+REC  smjdft (77)
+REC  rbubdz (77)
+END REC:  rmjchv (45)  weight:  353
+REC  ofmsbwz (247)
+REC  veeafpm (157)
+REC  rmjchv (45)
+REC  umlcaag (353)
+END REC:  qnaxzd (5)  weight:  807
+REC kcdvc (1299)
+REC  kxsxtd (59)
+REC  nmxpqnh (59)
+END REC:  kcdvc (1299)  weight:  1417
+REC  bbshy (355)
+REC  fffuhf (647)
+REC  qnaxzd (5)
+REC  kcdvc (1299)
+END REC:  hnuck (10755)  weight:  13061
+REC hmsstu (91)
+REC xgpkw (762)
+REC mghjs (188)
+REC  dcsbhra (51)
+REC  gohsqql (51)
+REC  wirnc (51)
+REC  hlseh (51)
+END REC:  mghjs (188)  weight:  392
+REC ekegoaj (64)
+REC  sdzdcr (82)
+REC  cjhaq (82)
+REC  yslnjr (82)
+REC  ahyhpz (82)
+END REC:  ekegoaj (64)  weight:  392
+REC rktbwod (268)
+REC  wtgjv (62)
+REC  rrswfd (62)
+END REC:  rktbwod (268)  weight:  392
+REC vdmtlr (332)
+REC  cqssrlq (30)
+REC  jiwmrx (30)
+END REC:  vdmtlr (332)  weight:  392
+REC djvzshb (98)
+REC  xgmcuzc (98)
+REC  xauvth (98)
+REC  antlr (98)
+END REC:  djvzshb (98)  weight:  392
+REC  mghjs (188)
+REC  ekegoaj (64)
+REC  rktbwod (268)
+REC  vdmtlr (332)
+REC  djvzshb (98)
+END REC:  xgpkw (762)  weight:  1712
+REC oebbzys (2065)
+REC rpbmn (57)
+REC  igbewg (81)
+REC  blovei (81)
+END REC:  rpbmn (57)  weight:  219
+REC muhtyvc (145)
+REC  qyfwbx (37)
+REC  otdtras (37)
+END REC:  muhtyvc (145)  weight:  219
+REC  cxbcib (219)
+REC  rpbmn (57)
+REC  muhtyvc (145)
+END REC:  oebbzys (2065)  weight:  2486
+REC vmfodw (1946)
+REC mzgecu (170)
+REC  eelypm (12)
+REC  grcoom (12)
+END REC:  mzgecu (170)  weight:  194
+REC crdqz (26)
+REC  hlhhfys (84)
+REC  zldlt (84)
+END REC:  crdqz (26)  weight:  194
+REC twwimz (164)
+REC  jwdlpw (10)
+REC  emjkbw (10)
+REC  jmxvth (10)
+END REC:  twwimz (164)  weight:  194
+REC  mzgecu (170)
+REC  wjswjjk (194)
+REC  crdqz (26)
+REC  twwimz (164)
+END REC:  vmfodw (1946)  weight:  2500
+REC ewxyrkx (76)
+REC cnnrve (186)
+REC  yufzzgy (96)
+REC  tvvzyrp (96)
+END REC:  cnnrve (186)  weight:  378
+REC buoixml (338)
+REC  yramlb (10)
+REC  kipfu (10)
+REC  nilfi (10)
+REC  efaua (10)
+END REC:  buoixml (338)  weight:  378
+REC zndohw (286)
+REC  ylrftrl (46)
+REC  qpdxpob (46)
+END REC:  zndohw (286)  weight:  378
+REC qgbbnl (22)
+REC  ozczna (89)
+REC  lyilhws (89)
+REC  vzamfb (89)
+REC  tehnz (89)
+END REC:  qgbbnl (22)  weight:  378
+REC sljqbjl (240)
+REC  hpqjl (69)
+REC  tzylg (69)
+END REC:  sljqbjl (240)  weight:  378
+REC dezecjo (230)
+REC  ccikbql (74)
+REC  otxilwl (74)
+END REC:  dezecjo (230)  weight:  378
+REC hhonck (94)
+REC  wstoc (71)
+REC  zvvyl (71)
+REC  zhkwxu (71)
+REC  czhcaiz (71)
+END REC:  hhonck (94)  weight:  378
+REC  cnnrve (186)
+REC  buoixml (338)
+REC  zndohw (286)
+REC  qgbbnl (22)
+REC  sljqbjl (240)
+REC  dezecjo (230)
+REC  hhonck (94)
+END REC:  ewxyrkx (76)  weight:  1472
+REC qaspfj (1106)
+REC gmlbsa (64)
+REC  zslja (85)
+REC  zpzfwgd (85)
+REC  bmjxtay (85)
+REC  pvcbg (85)
+END REC:  gmlbsa (64)  weight:  404
+REC gpesq (244)
+REC  spznevr (80)
+REC  cuaou (80)
+END REC:  gpesq (244)  weight:  404
+REC dtvjbm (324)
+REC  uihio (40)
+REC  ybjde (40)
+END REC:  dtvjbm (324)  weight:  404
+REC  gmlbsa (64)
+REC  gpesq (244)
+REC  dtvjbm (324)
+REC  pimwe (404)
+END REC:  qaspfj (1106)  weight:  2142
+REC jpeea (2545)
+REC  mxbsj (59)
+REC  izhrthy (59)
+REC  oasfpl (59)
+END REC:  jpeea (2545)  weight:  2722
+REC  xgpkw (762)
+REC  oebbzys (2065)
+REC  vmfodw (1946)
+REC  ewxyrkx (76)
+REC  qaspfj (1106)
+REC  jpeea (2545)
+END REC:  hmsstu (91)  weight:  8591
+REC lqjqj (7708)
+REC xemsycy (973)
+REC szkcigt (102)
+REC  lnmixf (55)
+REC  zjgflu (55)
+REC  bemdu (55)
+REC  fmzdg (55)
+END REC:  szkcigt (102)  weight:  322
+REC navfz (187)
+REC  jviwcde (45)
+REC  wfwor (45)
+REC  vpfabxa (45)
+END REC:  navfz (187)  weight:  322
+REC mtpqiok (190)
+REC  bmozv (66)
+REC  frrsc (66)
+END REC:  mtpqiok (190)  weight:  322
+REC bilbbf (127)
+REC  fxvjlr (65)
+REC  tarlgrd (65)
+REC  piqus (65)
+END REC:  bilbbf (127)  weight:  322
+REC ecviwn (268)
+REC  kqkarm (27)
+REC  zcqth (27)
+END REC:  ecviwn (268)  weight:  322
+REC emcour (54)
+REC  nhobovg (67)
+REC  wcfykrj (67)
+REC  wuxqatm (67)
+REC  hcnzejq (67)
+END REC:  emcour (54)  weight:  322
+REC  szkcigt (102)
+REC  navfz (187)
+REC  mtpqiok (190)
+REC  bilbbf (127)
+REC  ecviwn (268)
+REC  emcour (54)
+END REC:  xemsycy (973)  weight:  1901
+REC hybiw (685)
+REC ggvhbb (378)
+REC  djcakxm (33)
+REC  ghkmngk (33)
+END REC:  ggvhbb (378)  weight:  444
+REC fcicnl (302)
+REC  wpvpo (71)
+REC  wtcxhy (71)
+END REC:  fcicnl (302)  weight:  444
+REC uinbm (237)
+REC  ejxrqp (69)
+REC  axktcjd (69)
+REC  xmvipsu (69)
+END REC:  uinbm (237)  weight:  444
+REC ckavnt (68)
+REC  umheofb (94)
+REC  blsyfi (94)
+REC  qijkhbz (94)
+REC  ithmj (94)
+END REC:  ckavnt (68)  weight:  444
+REC lcdnv (246)
+REC  hksnbzc (99)
+REC  texmxw (99)
+END REC:  lcdnv (246)  weight:  444
+REC  ggvhbb (378)
+REC  fcicnl (302)
+REC  uinbm (237)
+REC  ckavnt (68)
+REC  lcdnv (246)
+END REC:  hybiw (685)  weight:  1916
+REC fuctso (91)
+REC dphyg (70)
+REC  bgcudvy (83)
+REC  kygfhen (83)
+REC  gvgfjab (83)
+REC  jhrqcd (83)
+END REC:  dphyg (70)  weight:  402
+REC zfjcea (308)
+REC  gyjyiu (47)
+REC  vfrbqk (47)
+END REC:  zfjcea (308)  weight:  402
+REC ukdaa (162)
+REC  kiadzi (60)
+REC  tlxmg (60)
+REC  mcqbzy (60)
+REC  txvuo (60)
+END REC:  ukdaa (162)  weight:  402
+REC hosih (206)
+REC  vpfxqm (98)
+REC  oocst (98)
+END REC:  hosih (206)  weight:  402
+REC mljbkl (10)
+REC  shryh (98)
+REC  glyfb (98)
+REC  cqlwmo (98)
+REC  ixiugzp (98)
+END REC:  mljbkl (10)  weight:  402
+REC  dphyg (70)
+REC  vszgnbj (402)
+REC  zfjcea (308)
+REC  ukdaa (162)
+REC  myecan (402)
+REC  hosih (206)
+REC  mljbkl (10)
+END REC:  fuctso (91)  weight:  1651
+REC  xemsycy (973)
+REC  hybiw (685)
+REC  fuctso (91)
+END REC:  lqjqj (7708)  weight:  9457
+REC wlaym (11043)
+REC arldq (96)
+REC bfhgdou (155)
+REC  ndnhrj (45)
+REC  gwowni (45)
+END REC:  bfhgdou (155)  weight:  245
+REC hdbck (101)
+REC  ayiitk (72)
+REC  xakrpew (72)
+END REC:  hdbck (101)  weight:  245
+REC dworlrf (221)
+REC  djswc (12)
+REC  qdymjur (12)
+END REC:  dworlrf (221)  weight:  245
+REC dxhgr (69)
+REC  hlylkh (88)
+REC  higxu (88)
+END REC:  dxhgr (69)  weight:  245
+REC  bfhgdou (155)
+REC  hdbck (101)
+REC  dworlrf (221)
+REC  dxhgr (69)
+END REC:  arldq (96)  weight:  642
+REC klvoil (986)
+REC  fvpns (45)
+REC  srdaso (45)
+END REC:  klvoil (986)  weight:  1076
+REC pqmxcxl (12)
+REC dgcwsz (138)
+REC  tybkxd (32)
+REC  ppgnqem (32)
+REC  kcpmu (32)
+REC  zpghac (32)
+END REC:  dgcwsz (138)  weight:  266
+REC omqgks (74)
+REC  gbxvor (64)
+REC  uczsgkq (64)
+REC  agrscit (64)
+END REC:  omqgks (74)  weight:  266
+REC abbgnrq (96)
+REC  dnlty (85)
+REC  rsjst (85)
+END REC:  abbgnrq (96)  weight:  266
+REC kimml (54)
+REC  yupgfp (53)
+REC  kfrwimb (53)
+REC  utcyzg (53)
+REC  fhxynme (53)
+END REC:  kimml (54)  weight:  266
+REC  dgcwsz (138)
+REC  omqgks (74)
+REC  abbgnrq (96)
+REC  kimml (54)
+END REC:  pqmxcxl (12)  weight:  374
+REC kekcm (836)
+REC  ulurun (60)
+REC  fmijcj (60)
+REC  kwhcaz (60)
+REC  cnblm (60)
+END REC:  kekcm (836)  weight:  1076
+REC nbguuj (524)
+REC ccqfrc (90)
+REC  jtwsltc (24)
+REC  wvpurkk (24)
+END REC:  ccqfrc (90)  weight:  138
+REC oieqvtt (63)
+REC  oameej (25)
+REC  ppiyhx (25)
+REC  exwagrs (25)
+END REC:  oieqvtt (63)  weight:  138
+REC mbuhvxk (104)
+REC  pjdbaq (17)
+REC  bmpdcge (17)
+END REC:  mbuhvxk (104)  weight:  138
+REC  ccqfrc (90)
+REC  xdcuy (138)
+REC  oieqvtt (63)
+REC  mbuhvxk (104)
+END REC:  nbguuj (524)  weight:  919
+REC  arldq (96)
+REC  klvoil (986)
+REC  pqmxcxl (12)
+REC  kekcm (836)
+REC  nbguuj (524)
+END REC:  wlaym (11043)  weight:  13497
+REC usetp (5755)
+REC zqztqd (744)
+REC yhaja (202)
+REC  zuodo (29)
+REC  uuzaefz (29)
+END REC:  yhaja (202)  weight:  260
+REC qqomkf (84)
+REC  gvuech (88)
+REC  ctwqys (88)
+END REC:  qqomkf (84)  weight:  260
+REC dfcpcm (184)
+REC  obbwoe (38)
+REC  ixwrmp (38)
+END REC:  dfcpcm (184)  weight:  260
+REC  yhaja (202)
+REC  qqomkf (84)
+REC  dfcpcm (184)
+END REC:  zqztqd (744)  weight:  1214
+REC ktlgsn (585)
+REC nlonnkx (255)
+REC  ohdtu (29)
+REC  noftq (29)
+END REC:  nlonnkx (255)  weight:  313
+REC ujryrca (76)
+REC  sgczxs (79)
+REC  ikntvuy (79)
+REC  micap (79)
+END REC:  ujryrca (76)  weight:  313
+REC  kpdnx (313)
+REC  nlonnkx (255)
+REC  ujryrca (76)
+END REC:  ktlgsn (585)  weight:  1229
+REC ncgmykk (1128)
+REC nzcwei (54)
+REC  pgwquco (39)
+REC  bebulic (39)
+END REC:  nzcwei (54)  weight:  132
+REC yhwnho (92)
+REC  pngigbs (20)
+REC  xewab (20)
+END REC:  yhwnho (92)  weight:  132
+REC  nywbm (132)
+REC  nzcwei (54)
+REC  yhwnho (92)
+END REC:  ncgmykk (1128)  weight:  1406
+REC gjowlue (588)
+REC ifwxdp (195)
+REC  rbmfs (13)
+REC  pocpbk (13)
+REC  dpyamhy (13)
+END REC:  ifwxdp (195)  weight:  234
+REC vxbrvx (52)
+REC  kribbus (91)
+REC  yuuzzx (91)
+END REC:  vxbrvx (52)  weight:  234
+REC tzgilw (208)
+REC  anvlz (13)
+REC  kbxmmw (13)
+END REC:  tzgilw (208)  weight:  234
+REC brupv (74)
+REC  vgerts (80)
+REC  uaeeza (80)
+END REC:  brupv (74)  weight:  234
+REC  ifwxdp (195)
+REC  vxbrvx (52)
+REC  tzgilw (208)
+REC  brupv (74)
+END REC:  gjowlue (588)  weight:  1117
+REC wjbpo (1502)
+REC  clhgsb (11)
+REC  hypdv (11)
+END REC:  wjbpo (1502)  weight:  1524
+REC vuskd (68)
+REC vcbywzm (114)
+REC  saalu (47)
+REC  ipmtfwk (47)
+END REC:  vcbywzm (114)  weight:  208
+REC icqjwqy (162)
+REC  ddkvjl (23)
+REC  muwgzs (23)
+END REC:  icqjwqy (162)  weight:  208
+REC unminnt (38)
+REC  abpnn (85)
+REC  ljihyoy (85)
+END REC:  unminnt (38)  weight:  208
+REC sinsn (13)
+REC  mjkcz (65)
+REC  bwomuu (65)
+REC  iyjjp (65)
+END REC:  sinsn (13)  weight:  208
+REC tvvqdps (28)
+REC  oxzwlk (90)
+REC  zajkvp (90)
+END REC:  tvvqdps (28)  weight:  208
+REC fanqwrt (44)
+REC  bdbaph (82)
+REC  wpbwt (82)
+END REC:  fanqwrt (44)  weight:  208
+REC  vcbywzm (114)
+REC  icqjwqy (162)
+REC  maxjejh (208)
+REC  unminnt (38)
+REC  sinsn (13)
+REC  tvvqdps (28)
+REC  fanqwrt (44)
+END REC:  vuskd (68)  weight:  675
+REC abqsqsw (1116)
+REC ksxpomr (18)
+REC  qbnzq (59)
+REC  otity (59)
+END REC:  ksxpomr (18)  weight:  136
+REC emxlqwq (18)
+REC  wqussp (59)
+REC  trunx (59)
+END REC:  emxlqwq (18)  weight:  136
+REC dwzeri (122)
+REC  vkpdskd (7)
+REC  sdehr (7)
+END REC:  dwzeri (122)  weight:  136
+REC  ksxpomr (18)
+REC  emxlqwq (18)
+REC  dwzeri (122)
+END REC:  abqsqsw (1116)  weight:  1274
+REC  zqztqd (744)
+REC  ktlgsn (585)
+REC  ncgmykk (1128)
+REC  gjowlue (588)
+REC  wjbpo (1502)
+REC  vuskd (68)
+REC  abqsqsw (1116)
+END REC:  usetp (5755)  weight:  11486
+REC tpzzyfa (11614)
+REC ighxv (363)
+REC prvxtd (120)
+REC  ziuhn (95)
+REC  exgnitf (95)
+END REC:  prvxtd (120)  weight:  310
+REC iikdtt (184)
+REC  jnlnp (63)
+REC  praqutu (63)
+END REC:  iikdtt (184)  weight:  310
+REC wzncmog (42)
+REC  eyxcrae (67)
+REC  gxvbg (67)
+REC  ikzndn (67)
+REC  otxum (67)
+END REC:  wzncmog (42)  weight:  310
+REC gxuohw (154)
+REC  fqmyeu (78)
+REC  ygjlqcg (78)
+END REC:  gxuohw (154)  weight:  310
+REC  prvxtd (120)
+REC  iikdtt (184)
+REC  wzncmog (42)
+REC  gxuohw (154)
+END REC:  ighxv (363)  weight:  863
+REC drcwwke (1141)
+REC uapxgoj (94)
+REC  jbxmsp (20)
+REC  iameqxg (20)
+REC  zvihzi (20)
+END REC:  uapxgoj (94)  weight:  154
+REC hyrbb (46)
+REC  kqzmkzh (54)
+REC  adyard (54)
+END REC:  hyrbb (46)  weight:  154
+REC  tabeoxr (154)
+REC  uapxgoj (94)
+REC  hyrbb (46)
+END REC:  drcwwke (1141)  weight:  1435
+REC rernf (11)
+REC okncqru (206)
+REC  dewked (96)
+REC  kggin (96)
+END REC:  okncqru (206)  weight:  398
+REC xtbfzkp (250)
+REC  axhcob (74)
+REC  pvrff (74)
+END REC:  xtbfzkp (250)  weight:  398
+REC rcgbe (322)
+REC  tzpoh (38)
+REC  txyftk (38)
+END REC:  rcgbe (322)  weight:  398
+REC nuwcul (46)
+REC  dhdeayl (88)
+REC  bbccojb (88)
+REC  qkfeemt (88)
+REC  bjifxso (88)
+END REC:  nuwcul (46)  weight:  398
+REC  okncqru (206)
+REC  xtbfzkp (250)
+REC  rcgbe (322)
+REC  nuwcul (46)
+END REC:  rernf (11)  weight:  835
+REC  ighxv (363)
+REC  drcwwke (1141)
+REC  rernf (11)
+END REC:  tpzzyfa (11614)  weight:  13129
+REC vjkbx (7351)
+REC nidfyzu (1617)
+REC iodeix (157)
+REC  ikmblf (20)
+REC  ichmv (20)
+REC  gvqpxq (20)
+END REC:  iodeix (157)  weight:  217
+REC fvyqhob (67)
+REC  lwjexjg (75)
+REC  niexrb (75)
+END REC:  fvyqhob (67)  weight:  217
+REC qyywjjj (75)
+REC  rqqcyu (71)
+REC  lntlxre (71)
+END REC:  qyywjjj (75)  weight:  217
+REC  iodeix (157)
+REC  fvyqhob (67)
+REC  qyywjjj (75)
+END REC:  nidfyzu (1617)  weight:  1916
+REC mtzdbty (1200)
+REC rtvetjy (124)
+REC  qcrztf (27)
+REC  nwemm (27)
+END REC:  rtvetjy (124)  weight:  178
+REC mmfkf (94)
+REC  mubgcn (42)
+REC  zxdcbk (42)
+END REC:  mmfkf (94)  weight:  178
+REC vlzaeq (102)
+REC  kqaeih (38)
+REC  ofhps (38)
+END REC:  vlzaeq (102)  weight:  178
+REC imciq (110)
+REC  frhsix (34)
+REC  wgnjhy (34)
+END REC:  imciq (110)  weight:  178
+REC rvlna (73)
+REC  wdrjftp (35)
+REC  frmsjzw (35)
+REC  wnmje (35)
+END REC:  rvlna (73)  weight:  178
+REC ymmoez (106)
+REC  ycjdb (36)
+REC  aewpztq (36)
+END REC:  ymmoez (106)  weight:  178
+REC  rtvetjy (124)
+REC  mmfkf (94)
+REC  vlzaeq (102)
+REC  imciq (110)
+REC  rvlna (73)
+REC  ymmoez (106)
+END REC:  mtzdbty (1200)  weight:  1809
+REC pszgrn (672)
+REC kclwabx (94)
+REC  zucwwm (67)
+REC  eolje (67)
+END REC:  kclwabx (94)  weight:  228
+REC fkchd (164)
+REC  raljfk (32)
+REC  povpspa (32)
+END REC:  fkchd (164)  weight:  228
+REC nxnvm (162)
+REC  vqrxmf (33)
+REC  bgelipj (33)
+END REC:  nxnvm (162)  weight:  228
+REC hdevhyk (188)
+REC  tzymfw (20)
+REC  sscdb (20)
+END REC:  hdevhyk (188)  weight:  228
+REC jkoeof (68)
+REC  lifhy (80)
+REC  svlhbcy (80)
+END REC:  jkoeof (68)  weight:  228
+REC tcyvkaf (144)
+REC  hspiay (42)
+REC  tviveza (42)
+END REC:  tcyvkaf (144)  weight:  228
+REC ajnkrwf (38)
+REC  mlojggk (95)
+REC  ianvxjm (95)
+END REC:  ajnkrwf (38)  weight:  228
+REC  kclwabx (94)
+REC  fkchd (164)
+REC  nxnvm (162)
+REC  hdevhyk (188)
+REC  jkoeof (68)
+REC  tcyvkaf (144)
+REC  ajnkrwf (38)
+END REC:  pszgrn (672)  weight:  1530
+REC xkmzwq (77)
+REC qhrye (287)
+REC  fwxdhe (13)
+REC  dcwngp (13)
+END REC:  qhrye (287)  weight:  313
+REC nyyqkh (217)
+REC  lbkxp (48)
+REC  ubxusjq (48)
+END REC:  nyyqkh (217)  weight:  313
+REC vumehdr (283)
+REC  lrewm (10)
+REC  swtjb (10)
+REC  epckorn (10)
+END REC:  vumehdr (283)  weight:  313
+REC bqbsz (209)
+REC  ezrvccj (52)
+REC  neiawsy (52)
+END REC:  bqbsz (209)  weight:  313
+REC lcidw (97)
+REC  xbipb (72)
+REC  wndcqx (72)
+REC  ryluuhv (72)
+END REC:  lcidw (97)  weight:  313
+REC kyubds (53)
+REC  juljpnm (65)
+REC  dapiuh (65)
+REC  tqpoo (65)
+REC  kwetye (65)
+END REC:  kyubds (53)  weight:  313
+REC  qhrye (287)
+REC  kdzri (313)
+REC  nyyqkh (217)
+REC  vumehdr (283)
+REC  bqbsz (209)
+REC  lcidw (97)
+REC  kyubds (53)
+END REC:  xkmzwq (77)  weight:  1536
+REC  nidfyzu (1617)
+REC  mtzdbty (1200)
+REC  pszgrn (672)
+REC  xkmzwq (77)
+END REC:  vjkbx (7351)  weight:  10917
+REC  hnuck (10755)
+REC  hmsstu (91)
+REC  lqjqj (7708)
+REC  wlaym (11043)
+REC  usetp (5755)
+REC  tpzzyfa (11614)
+REC  vjkbx (7351)
+END REC:  fzclaow (61)  weight:  54378
+REC kfdxxb (54154)
+REC qhblzff (14830)
+REC rvtwdl (29)
+REC  gttojem (50)
+REC  wkvve (50)
+END REC:  rvtwdl (29)  weight:  129
+REC jgmxdc (79)
+REC  zvmzo (25)
+REC  wmpeyz (25)
+END REC:  jgmxdc (79)  weight:  129
+REC zjwxdsl (48)
+REC  lmihhgo (27)
+REC  czrjoz (27)
+REC  bbsbwso (27)
+END REC:  zjwxdsl (48)  weight:  129
+REC  rvtwdl (29)
+REC  jgmxdc (79)
+REC  zjwxdsl (48)
+END REC:  qhblzff (14830)  weight:  14986
+REC pvwsgxh (9001)
+REC vtpiz (426)
+REC evrgojz (190)
+REC  ljiem (93)
+REC  vlbzvxp (93)
+END REC:  evrgojz (190)  weight:  376
+REC eylhve (8)
+REC  mwmpp (92)
+REC  joduj (92)
+REC  ygsse (92)
+REC  gyhnr (92)
+END REC:  eylhve (8)  weight:  376
+REC yhchshd (286)
+REC  sjvozur (45)
+REC  sysqfo (45)
+END REC:  yhchshd (286)  weight:  376
+REC  evrgojz (190)
+REC  eylhve (8)
+REC  yhchshd (286)
+END REC:  vtpiz (426)  weight:  910
+REC dzaxux (84)
+REC bvurv (227)
+REC  muczne (9)
+REC  yrobppu (9)
+END REC:  bvurv (227)  weight:  245
+REC sqybc (81)
+REC  gotjxc (41)
+REC  yedhrqg (41)
+REC  ppmiyqf (41)
+REC  mudpzad (41)
+END REC:  sqybc (81)  weight:  245
+REC rgnnme (65)
+REC  xrktj (90)
+REC  nccozmr (90)
+END REC:  rgnnme (65)  weight:  245
+REC gxjbow (161)
+REC  erjhzv (42)
+REC  psasli (42)
+END REC:  gxjbow (161)  weight:  245
+REC  bvurv (227)
+REC  pwvvaw (245)
+REC  sqybc (81)
+REC  rgnnme (65)
+REC  gxjbow (161)
+REC  komast (245)
+END REC:  dzaxux (84)  weight:  1108
+REC trvqvb (134)
+REC bcsmd (250)
+REC  jgmxxac (17)
+REC  atdbx (17)
+END REC:  bcsmd (250)  weight:  284
+REC htbso (96)
+REC  jdfus (94)
+REC  bxpmf (94)
+END REC:  htbso (96)  weight:  284
+REC scmer (5)
+REC  scppxlw (93)
+REC  zegoehg (93)
+REC  grrjci (93)
+END REC:  scmer (5)  weight:  284
+REC tnutmxv (264)
+REC  eewro (5)
+REC  gwvwgyr (5)
+REC  yntvfk (5)
+REC  zvhpm (5)
+END REC:  tnutmxv (264)  weight:  284
+REC  zkdvejs (284)
+REC  bcsmd (250)
+REC  htbso (96)
+REC  scmer (5)
+REC  tnutmxv (264)
+END REC:  trvqvb (134)  weight:  1033
+REC tswygt (1382)
+REC  aatuy (86)
+REC  krcvxrb (86)
+END REC:  tswygt (1382)  weight:  1554
+REC  vtpiz (426)
+REC  dzaxux (84)
+REC  trvqvb (134)
+REC  tswygt (1382)
+END REC:  pvwsgxh (9001)  weight:  11027
+REC postmlp (4609)
+REC bkesn (27)
+REC cffyru (239)
+REC  onqtz (68)
+REC  vipxzk (68)
+END REC:  cffyru (239)  weight:  375
+REC jvtkvxk (281)
+REC  fdearm (47)
+REC  lymfce (47)
+END REC:  jvtkvxk (281)  weight:  375
+REC owbuww (222)
+REC  dmdxjmt (51)
+REC  vkwfac (51)
+REC  msdkszz (51)
+END REC:  owbuww (222)  weight:  375
+REC njlbp (269)
+REC  meddd (53)
+REC  ajebiy (53)
+END REC:  njlbp (269)  weight:  375
+REC dppsv (179)
+REC  josdymn (98)
+REC  nguoj (98)
+END REC:  dppsv (179)  weight:  375
+REC jskhzl (19)
+REC  yhwsnv (89)
+REC  oswlpi (89)
+REC  ujruya (89)
+REC  sbjuka (89)
+END REC:  jskhzl (19)  weight:  375
+REC  cffyru (239)
+REC  jvtkvxk (281)
+REC  owbuww (222)
+REC  njlbp (269)
+REC  vlcttf (375)
+REC  dppsv (179)
+REC  jskhzl (19)
+END REC:  bkesn (27)  weight:  1611
+REC ljfdk (1260)
+REC nudeuz (406)
+REC  cwrmfzk (29)
+REC  jqtws (29)
+END REC:  nudeuz (406)  weight:  464
+REC pswzpo (88)
+REC  mfbagfq (94)
+REC  ncrtwlq (94)
+REC  mfoinlm (94)
+REC  lrrdrb (94)
+END REC:  pswzpo (88)  weight:  464
+REC vifsucu (239)
+REC  aveyaj (75)
+REC  xsxubhv (75)
+REC  zanvcz (75)
+END REC:  vifsucu (239)  weight:  464
+REC  nudeuz (406)
+REC  pswzpo (88)
+REC  vifsucu (239)
+END REC:  ljfdk (1260)  weight:  1993
+REC uugdix (1614)
+REC fwsxuc (147)
+REC  coekrtq (13)
+REC  fltcx (13)
+END REC:  fwsxuc (147)  weight:  173
+REC frdln (137)
+REC  ryclt (12)
+REC  hxfrni (12)
+REC  dyjfhnl (12)
+END REC:  frdln (137)  weight:  173
+REC nkipd (134)
+REC  tslgtw (13)
+REC  tlxbs (13)
+REC  pnapirq (13)
+END REC:  nkipd (134)  weight:  173
+REC gvytaes (63)
+REC  lqqdqgl (55)
+REC  zqijwcd (55)
+END REC:  gvytaes (63)  weight:  173
+REC fyudu (11)
+REC  ozjskhi (54)
+REC  ujaxyn (54)
+REC  uyqbwe (54)
+END REC:  fyudu (11)  weight:  173
+REC  fwsxuc (147)
+REC  frdln (137)
+REC  nkipd (134)
+REC  gvytaes (63)
+REC  fyudu (11)
+REC  krunds (173)
+END REC:  uugdix (1614)  weight:  2279
+REC txvil (2316)
+REC vwzwnip (96)
+REC  hlhvabs (8)
+REC  udqaee (8)
+END REC:  vwzwnip (96)  weight:  112
+REC  vwzwnip (96)
+REC  wxtvn (112)
+REC  kvgtcm (112)
+END REC:  txvil (2316)  weight:  2636
+REC  bkesn (27)
+REC  ljfdk (1260)
+REC  uugdix (1614)
+REC  txvil (2316)
+END REC:  postmlp (4609)  weight:  9826
+REC grvzg (55)
+REC roihpx (589)
+REC qffyap (251)
+REC  xuxkwp (36)
+REC  jkkmv (36)
+END REC:  qffyap (251)  weight:  323
+REC sabtf (19)
+REC  vztbk (76)
+REC  xjzzeu (76)
+REC  skmqfy (76)
+REC  uicqk (76)
+END REC:  sabtf (19)  weight:  323
+REC uehaezr (189)
+REC  lzrcpf (67)
+REC  dyjywtj (67)
+END REC:  uehaezr (189)  weight:  323
+REC yuhoog (38)
+REC  vbnbtrd (95)
+REC  lmdzx (95)
+REC  jborbj (95)
+END REC:  yuhoog (38)  weight:  323
+REC awquent (203)
+REC  kqnxr (60)
+REC  oheqyl (60)
+END REC:  awquent (203)  weight:  323
+REC  qffyap (251)
+REC  sabtf (19)
+REC  ubsxskk (323)
+REC  uehaezr (189)
+REC  yuhoog (38)
+REC  awquent (203)
+END REC:  roihpx (589)  weight:  1612
+REC yvfltrt (686)
+REC abupobw (131)
+REC  sruad (66)
+REC  gvamy (66)
+END REC:  abupobw (131)  weight:  263
+REC ltseb (200)
+REC  pqmsk (21)
+REC  seciy (21)
+REC  ybvbei (21)
+END REC:  ltseb (200)  weight:  263
+REC ywzrkz (113)
+REC  olqpfvj (75)
+REC  hvdxb (75)
+END REC:  ywzrkz (113)  weight:  263
+REC neoaym (175)
+REC  suyuh (44)
+REC  xklheqv (44)
+END REC:  neoaym (175)  weight:  263
+REC aknsq (161)
+REC  djwzsa (34)
+REC  ihciz (34)
+REC  gmvxx (34)
+END REC:  aknsq (161)  weight:  263
+REC utgpz (81)
+REC  aqvoo (91)
+REC  dtjjjie (91)
+END REC:  utgpz (81)  weight:  263
+REC wauprfk (131)
+REC  laxzy (66)
+REC  ewflis (66)
+END REC:  wauprfk (131)  weight:  263
+REC  abupobw (131)
+REC  ltseb (200)
+REC  ywzrkz (113)
+REC  neoaym (175)
+REC  aknsq (161)
+REC  utgpz (81)
+REC  wauprfk (131)
+END REC:  yvfltrt (686)  weight:  1678
+REC odlntvv (1699)
+REC xvsnmmx (48)
+REC  wdbub (57)
+REC  kpgyfzy (57)
+REC  kfrwdp (57)
+REC  wpuburp (57)
+END REC:  xvsnmmx (48)  weight:  276
+REC heradq (132)
+REC  dtnwui (72)
+REC  fhlzh (72)
+END REC:  heradq (132)  weight:  276
+REC  xvsnmmx (48)
+REC  heradq (132)
+REC  rmjqnz (276)
+END REC:  odlntvv (1699)  weight:  2155
+REC rraaooy (1643)
+REC jlnxmnt (197)
+REC  xszevpx (8)
+REC  ijzvrcj (8)
+REC  dxgmc (8)
+END REC:  jlnxmnt (197)  weight:  221
+REC klaqwj (67)
+REC  qmpvl (77)
+REC  cwexwaz (77)
+END REC:  klaqwj (67)  weight:  221
+REC avlbm (85)
+REC  neixysk (68)
+REC  clpia (68)
+END REC:  avlbm (85)  weight:  221
+REC njusfd (77)
+REC  ctwtm (48)
+REC  ivgdluw (48)
+REC  lunozxs (48)
+END REC:  njusfd (77)  weight:  221
+REC  jlnxmnt (197)
+REC  klaqwj (67)
+REC  avlbm (85)
+REC  njusfd (77)
+END REC:  rraaooy (1643)  weight:  2069
+REC otfbit (1257)
+REC aptjv (142)
+REC  preebof (56)
+REC  xgnntny (56)
+END REC:  aptjv (142)  weight:  254
+REC gpiew (204)
+REC  evfti (25)
+REC  mcgydbg (25)
+END REC:  gpiew (204)  weight:  254
+REC vuxruoi (226)
+REC  gqdxofo (14)
+REC  nfbyk (14)
+END REC:  vuxruoi (226)  weight:  254
+REC xjbkl (11)
+REC  isxnnce (81)
+REC  wufzoga (81)
+REC  wxtzk (81)
+END REC:  xjbkl (11)  weight:  254
+REC arxmlc (89)
+REC  yqywtzl (55)
+REC  zijpzl (55)
+REC  bsdmjnd (55)
+END REC:  arxmlc (89)  weight:  254
+REC  aptjv (142)
+REC  gpiew (204)
+REC  vuxruoi (226)
+REC  xjbkl (11)
+REC  arxmlc (89)
+END REC:  otfbit (1257)  weight:  1929
+REC jcfix (55)
+REC onjgrby (396)
+REC  mfzhe (8)
+REC  kwibs (8)
+END REC:  onjgrby (396)  weight:  412
+REC tseejl (56)
+REC  pdzqzk (89)
+REC  eklij (89)
+REC  ppqjh (89)
+REC  sbkfcbh (89)
+END REC:  tseejl (56)  weight:  412
+REC pbmrflr (350)
+REC  nbuie (31)
+REC  btpwtub (31)
+END REC:  pbmrflr (350)  weight:  412
+REC jhnoba (380)
+REC  xehzoaw (16)
+REC  lxuwkr (16)
+END REC:  jhnoba (380)  weight:  412
+REC fuxuvbn (396)
+REC  lcynwc (8)
+REC  mmjuj (8)
+END REC:  fuxuvbn (396)  weight:  412
+REC nnfwd (268)
+REC  abftzdj (72)
+REC  voeqqmw (72)
+END REC:  nnfwd (268)  weight:  412
+REC  onjgrby (396)
+REC  tseejl (56)
+REC  pbmrflr (350)
+REC  jhnoba (380)
+REC  fuxuvbn (396)
+REC  nnfwd (268)
+END REC:  jcfix (55)  weight:  1901
+REC  roihpx (589)
+REC  yvfltrt (686)
+REC  odlntvv (1699)
+REC  rraaooy (1643)
+REC  otfbit (1257)
+REC  jcfix (55)
+END REC:  grvzg (55)  weight:  5984
+REC  qhblzff (14830)
+REC  pvwsgxh (9001)
+REC  postmlp (4609)
+REC  grvzg (55)
+END REC:  kfdxxb (54154)  weight:  82649
+REC xnmjpa (72670)
+REC kxrel (628)
+REC zedtoui (1932)
+REC ggjiddn (96)
+REC  iprdoum (30)
+REC  ghyax (30)
+REC  qdvmv (30)
+END REC:  ggjiddn (96)  weight:  186
+REC smfpql (132)
+REC  gwbssq (27)
+REC  khyucl (27)
+END REC:  smfpql (132)  weight:  186
+REC tmmdx (48)
+REC  gosft (69)
+REC  mmjuyat (69)
+END REC:  tmmdx (48)  weight:  186
+REC  ggjiddn (96)
+REC  smfpql (132)
+REC  tmmdx (48)
+END REC:  zedtoui (1932)  weight:  2208
+REC pnnwkn (19)
+REC jgcfh (269)
+REC  ffbhje (42)
+REC  ewfigm (42)
+END REC:  jgcfh (269)  weight:  353
+REC plptt (179)
+REC  rvntovh (87)
+REC  dzvnjwy (87)
+END REC:  plptt (179)  weight:  353
+REC uxcmj (267)
+REC  utpjye (43)
+REC  tacjmyy (43)
+END REC:  uxcmj (267)  weight:  353
+REC fiaepdw (307)
+REC  hclfihb (23)
+REC  cfjib (23)
+END REC:  fiaepdw (307)  weight:  353
+REC ibkwb (13)
+REC  rskvj (85)
+REC  tnncdvi (85)
+REC  vxwudy (85)
+REC  euukxkh (85)
+END REC:  ibkwb (13)  weight:  353
+REC lfklsmy (275)
+REC  pqkvbwc (39)
+REC  hgwrue (39)
+END REC:  lfklsmy (275)  weight:  353
+REC swdcc (293)
+REC  lzfsc (30)
+REC  tgeefln (30)
+END REC:  swdcc (293)  weight:  353
+REC  jgcfh (269)
+REC  plptt (179)
+REC  uxcmj (267)
+REC  fiaepdw (307)
+REC  ibkwb (13)
+REC  lfklsmy (275)
+REC  swdcc (293)
+END REC:  pnnwkn (19)  weight:  1622
+REC ppwgp (1776)
+REC vxgexz (128)
+REC  qftvm (55)
+REC  tjngq (55)
+END REC:  vxgexz (128)  weight:  238
+REC frhpgy (115)
+REC  hqqjy (41)
+REC  twrxos (41)
+REC  horvahx (41)
+END REC:  frhpgy (115)  weight:  238
+REC gdjplif (60)
+REC  dautk (89)
+REC  azbhibc (89)
+END REC:  gdjplif (60)  weight:  238
+REC  vxgexz (128)
+REC  frhpgy (115)
+REC  gdjplif (60)
+END REC:  ppwgp (1776)  weight:  2079
+REC burml (360)
+REC gorrq (299)
+REC  ybxios (28)
+REC  kaezunt (28)
+END REC:  gorrq (299)  weight:  355
+REC zbodcwy (99)
+REC  qwthf (64)
+REC  acufa (64)
+REC  mqwnw (64)
+REC  qrtvd (64)
+END REC:  zbodcwy (99)  weight:  355
+REC eecmcs (229)
+REC  mreicow (63)
+REC  mjfsqls (63)
+END REC:  eecmcs (229)  weight:  355
+REC ydgsome (91)
+REC  clpswz (66)
+REC  mqiyn (66)
+REC  fzadipq (66)
+REC  qkwni (66)
+END REC:  ydgsome (91)  weight:  355
+REC pybcu (267)
+REC  abrvrcv (44)
+REC  kgarj (44)
+END REC:  pybcu (267)  weight:  355
+REC xdsctl (7)
+REC  wvfahid (87)
+REC  elgpli (87)
+REC  oqjdqhz (87)
+REC  uwtjv (87)
+END REC:  xdsctl (7)  weight:  355
+REC  gorrq (299)
+REC  zbodcwy (99)
+REC  eecmcs (229)
+REC  ydgsome (91)
+REC  pybcu (267)
+REC  xdsctl (7)
+END REC:  burml (360)  weight:  1352
+REC  zedtoui (1932)
+REC  pnnwkn (19)
+REC  ppwgp (1776)
+REC  burml (360)
+END REC:  kxrel (628)  weight:  4715
+REC vfjnsd (4402)
+REC quempkz (1225)
+REC ndait (181)
+REC  qfkpanu (49)
+REC  wlgsuj (49)
+END REC:  ndait (181)  weight:  279
+REC vpkkrb (155)
+REC  jwfem (62)
+REC  rhxhixx (62)
+END REC:  vpkkrb (155)  weight:  279
+REC hphlcxp (97)
+REC  rtlcg (91)
+REC  vrxhty (91)
+END REC:  hphlcxp (97)  weight:  279
+REC  ndait (181)
+REC  vpkkrb (155)
+REC  hphlcxp (97)
+END REC:  quempkz (1225)  weight:  1658
+REC xvlxy (77)
+REC jcrly (81)
+REC  kqrpmtu (79)
+REC  bxyfc (79)
+REC  hzdjjg (79)
+REC  evapx (79)
+END REC:  jcrly (81)  weight:  397
+REC esikob (281)
+REC  runxvuj (58)
+REC  pgjgnaz (58)
+END REC:  esikob (281)  weight:  397
+REC cxmrla (231)
+REC  enant (83)
+REC  gvfys (83)
+END REC:  cxmrla (231)  weight:  397
+REC pdmci (307)
+REC  bawokn (45)
+REC  vesets (45)
+END REC:  pdmci (307)  weight:  397
+REC avefgw (196)
+REC  mrkxs (67)
+REC  dppmh (67)
+REC  qusruqc (67)
+END REC:  avefgw (196)  weight:  397
+REC  jcrly (81)
+REC  esikob (281)
+REC  cxmrla (231)
+REC  pdmci (307)
+REC  avefgw (196)
+END REC:  xvlxy (77)  weight:  1173
+REC tulwp (264)
+REC dygbnr (154)
+REC  lkeaso (52)
+REC  oqvygul (52)
+END REC:  dygbnr (154)  weight:  258
+REC wufaj (174)
+REC  kjmxrt (42)
+REC  nqhah (42)
+END REC:  wufaj (174)  weight:  258
+REC oxcetg (86)
+REC  qvzryn (86)
+REC  yjbucib (86)
+END REC:  oxcetg (86)  weight:  258
+REC gbfjjv (240)
+REC  lvblzvy (6)
+REC  hcpnjd (6)
+REC  mohkqjm (6)
+END REC:  gbfjjv (240)  weight:  258
+REC xnfpxnd (114)
+REC  xvguvgw (72)
+REC  qaktp (72)
+END REC:  xnfpxnd (114)  weight:  258
+REC oxvjudn (76)
+REC  frxenhe (91)
+REC  wxrqjvy (91)
+END REC:  oxvjudn (76)  weight:  258
+REC anongb (158)
+REC  yimofqp (50)
+REC  qnqir (50)
+END REC:  anongb (158)  weight:  258
+REC  dygbnr (154)
+REC  wufaj (174)
+REC  oxcetg (86)
+REC  gbfjjv (240)
+REC  xnfpxnd (114)
+REC  oxvjudn (76)
+REC  anongb (158)
+END REC:  tulwp (264)  weight:  1266
+REC  quempkz (1225)
+REC  xvlxy (77)
+REC  tulwp (264)
+END REC:  vfjnsd (4402)  weight:  5968
+REC bjmzvm (3517)
+REC blfqvmp (41)
+REC wbyfgrk (320)
+REC  vxqdrzk (33)
+REC  alhox (33)
+END REC:  wbyfgrk (320)  weight:  386
+REC zzgtrsz (326)
+REC  laktqu (30)
+REC  hcjslif (30)
+END REC:  zzgtrsz (326)  weight:  386
+REC gunqzbu (34)
+REC  fqzleh (88)
+REC  utpfhue (88)
+REC  zzxdzzl (88)
+REC  cithkzk (88)
+END REC:  gunqzbu (34)  weight:  386
+REC mybfzn (234)
+REC  elndeja (76)
+REC  vbnyv (76)
+END REC:  mybfzn (234)  weight:  386
+REC tpfcenm (240)
+REC  jxuncn (73)
+REC  bhvpcqs (73)
+END REC:  tpfcenm (240)  weight:  386
+REC  wbyfgrk (320)
+REC  zzgtrsz (326)
+REC  gunqzbu (34)
+REC  xydbtk (386)
+REC  mybfzn (234)
+REC  tpfcenm (240)
+END REC:  blfqvmp (41)  weight:  1581
+REC myqrqql (2330)
+REC  sdcdu (9)
+REC  hxnxq (9)
+REC  nxkawc (9)
+END REC:  myqrqql (2330)  weight:  2357
+REC tgshzb (1457)
+REC fszox (254)
+REC  asnxgw (23)
+REC  rvtdj (23)
+END REC:  fszox (254)  weight:  300
+REC qrxvqe (238)
+REC  gxgrdez (31)
+REC  xhwkcn (31)
+END REC:  qrxvqe (238)  weight:  300
+REC hrkgae (15)
+REC  datcnu (95)
+REC  ihbwov (95)
+REC  xjrgo (95)
+END REC:  hrkgae (15)  weight:  300
+REC  fszox (254)
+REC  qrxvqe (238)
+REC  hrkgae (15)
+END REC:  tgshzb (1457)  weight:  1964
+REC  blfqvmp (41)
+REC  myqrqql (2330)
+REC  tgshzb (1457)
+END REC:  bjmzvm (3517)  weight:  7345
+REC mgvnybx (96)
+REC yedeqj (1867)
+REC beocgcy (7)
+REC  dmyoiho (91)
+REC  eybms (91)
+END REC:  beocgcy (7)  weight:  189
+REC gzpma (111)
+REC  amuyprv (39)
+REC  dorcc (39)
+END REC:  gzpma (111)  weight:  189
+REC eqhyjd (77)
+REC  edyopxe (56)
+REC  fhirm (56)
+END REC:  eqhyjd (77)  weight:  189
+REC  wuqyrfk (189)
+REC  beocgcy (7)
+REC  gzpma (111)
+REC  eqhyjd (77)
+END REC:  yedeqj (1867)  weight:  2251
+REC lnpdxkz (19)
+REC kfahk (302)
+REC  gkmkjyr (66)
+REC  mxibrwp (66)
+END REC:  kfahk (302)  weight:  434
+REC myuqc (98)
+REC  ebchb (84)
+REC  gzzodai (84)
+REC  uqvkdd (84)
+REC  orrks (84)
+END REC:  myuqc (98)  weight:  434
+REC puhghe (270)
+REC  leokcd (82)
+REC  vkbeys (82)
+END REC:  puhghe (270)  weight:  434
+REC ocboj (266)
+REC  csrpgne (84)
+REC  zzsbho (84)
+END REC:  ocboj (266)  weight:  434
+REC nqhyusz (336)
+REC  kjgwca (49)
+REC  ixkdgf (49)
+END REC:  nqhyusz (336)  weight:  434
+REC unegqpm (164)
+REC  sovii (90)
+REC  fggqv (90)
+REC  hgbhi (90)
+END REC:  unegqpm (164)  weight:  434
+REC  kfahk (302)
+REC  myuqc (98)
+REC  puhghe (270)
+REC  ocboj (266)
+REC  nqhyusz (336)
+REC  unegqpm (164)
+END REC:  lnpdxkz (19)  weight:  1455
+REC pheetb (863)
+REC hpvubeg (76)
+REC  xkhavpc (91)
+REC  ochboo (91)
+REC  zwrhhqv (91)
+REC  mhvpzbf (91)
+END REC:  hpvubeg (76)  weight:  440
+REC zjtchm (227)
+REC  npkafp (71)
+REC  ffjip (71)
+REC  ayyaq (71)
+END REC:  zjtchm (227)  weight:  440
+REC ujudwk (270)
+REC  qvujwr (85)
+REC  nrrops (85)
+END REC:  ujudwk (270)  weight:  440
+REC xzkon (410)
+REC  kipoq (15)
+REC  nngqjua (15)
+END REC:  xzkon (410)  weight:  440
+REC  hpvubeg (76)
+REC  zjtchm (227)
+REC  ujudwk (270)
+REC  xzkon (410)
+END REC:  pheetb (863)  weight:  1846
+REC fbhwev (2044)
+REC itteaa (22)
+REC  fveygo (57)
+REC  wqgfmh (57)
+REC  pksuyfu (57)
+END REC:  itteaa (22)  weight:  193
+REC yhpdlh (137)
+REC  ddzbs (28)
+REC  ykbmqm (28)
+END REC:  yhpdlh (137)  weight:  193
+REC  bfvvrgi (193)
+REC  itteaa (22)
+REC  yhpdlh (137)
+END REC:  fbhwev (2044)  weight:  2396
+REC  yedeqj (1867)
+REC  lnpdxkz (19)
+REC  pheetb (863)
+REC  fbhwev (2044)
+END REC:  mgvnybx (96)  weight:  4889
+REC  kxrel (628)
+REC  vfjnsd (4402)
+REC  bjmzvm (3517)
+REC  mgvnybx (96)
+END REC:  xnmjpa (72670)  weight:  81313
+REC rilgrr (75761)
+REC ztioqqe (83)
+REC uqbcgt (2192)
+REC ctaxhl (25)
+REC  tupxl (82)
+REC  kfcucr (82)
+REC  ghnbgge (82)
+REC  xaycoki (82)
+END REC:  ctaxhl (25)  weight:  353
+REC irgxwel (81)
+REC  aiqejps (68)
+REC  uqkwa (68)
+REC  yxhtf (68)
+REC  ghcuf (68)
+END REC:  irgxwel (81)  weight:  353
+REC varne (281)
+REC  pbizn (36)
+REC  zgqnd (36)
+END REC:  varne (281)  weight:  353
+REC  ctaxhl (25)
+REC  irgxwel (81)
+REC  varne (281)
+END REC:  uqbcgt (2192)  weight:  2579
+REC btnoqzd (94)
+REC spyjrzi (355)
+REC  dqnif (48)
+REC  tfjeo (48)
+END REC:  spyjrzi (355)  weight:  451
+REC rwmqr (385)
+REC  endsg (33)
+REC  ivcasrz (33)
+END REC:  rwmqr (385)  weight:  451
+REC vvsev (346)
+REC  hwtudr (35)
+REC  bptud (35)
+REC  qekqaz (35)
+END REC:  vvsev (346)  weight:  451
+REC dstuo (103)
+REC  alvjlwt (87)
+REC  qucgz (87)
+REC  oxtumtn (87)
+REC  wffkz (87)
+END REC:  dstuo (103)  weight:  451
+REC wqiene (79)
+REC  thtpl (93)
+REC  juoxs (93)
+REC  bivbw (93)
+REC  pfiwzws (93)
+END REC:  wqiene (79)  weight:  451
+REC qmnsyex (427)
+REC  ucytsw (6)
+REC  fnnxu (6)
+REC  ntiulub (6)
+REC  dbpvy (6)
+END REC:  qmnsyex (427)  weight:  451
+REC skcvg (287)
+REC  udpkm (41)
+REC  bltzxtt (41)
+REC  rkjces (41)
+REC  fbgohwn (41)
+END REC:  skcvg (287)  weight:  451
+REC  spyjrzi (355)
+REC  rwmqr (385)
+REC  vvsev (346)
+REC  dstuo (103)
+REC  wqiene (79)
+REC  qmnsyex (427)
+REC  skcvg (287)
+END REC:  btnoqzd (94)  weight:  2076
+REC kddqe (1367)
+REC btzchz (134)
+REC  rmczuu (60)
+REC  fglno (60)
+REC  mnqvu (60)
+END REC:  btzchz (134)  weight:  314
+REC frebmn (65)
+REC  iqycdt (83)
+REC  vkftq (83)
+REC  ginbdt (83)
+END REC:  frebmn (65)  weight:  314
+REC aejjn (152)
+REC  jnhjfg (81)
+REC  xtpqgw (81)
+END REC:  aejjn (152)  weight:  314
+REC qqtlw (290)
+REC  ozidy (12)
+REC  gigmx (12)
+END REC:  qqtlw (290)  weight:  314
+REC  iqemusp (314)
+REC  utmatrv (314)
+REC  btzchz (134)
+REC  frebmn (65)
+REC  aejjn (152)
+REC  qqtlw (290)
+END REC:  kddqe (1367)  weight:  2636
+REC sgosmil (1704)
+REC ffdwtz (185)
+REC  dwhpsh (18)
+REC  ufjnfv (18)
+END REC:  ffdwtz (185)  weight:  221
+REC qsniae (199)
+REC  uibkcpe (11)
+REC  stwgbsz (11)
+END REC:  qsniae (199)  weight:  221
+REC vmypqee (165)
+REC  dtdrq (28)
+REC  rjich (28)
+END REC:  vmypqee (165)  weight:  221
+REC vayfab (29)
+REC  vqwptq (96)
+REC  nwptea (96)
+END REC:  vayfab (29)  weight:  221
+REC dxbjv (69)
+REC  ahyfxpy (76)
+REC  uifttbe (76)
+END REC:  dxbjv (69)  weight:  221
+REC ffkrppv (187)
+REC  oulrj (17)
+REC  cwstpsc (17)
+END REC:  ffkrppv (187)  weight:  221
+REC  ffdwtz (185)
+REC  qsniae (199)
+REC  vmypqee (165)
+REC  vayfab (29)
+REC  dxbjv (69)
+REC  ffkrppv (187)
+REC  gqjmp (221)
+END REC:  sgosmil (1704)  weight:  2759
+REC  uqbcgt (2192)
+REC  btnoqzd (94)
+REC  kddqe (1367)
+REC  sgosmil (1704)
+END REC:  ztioqqe (83)  weight:  5440
+REC trukr (5539)
+REC rssegj (27)
+REC mpiiw (186)
+REC  sjkpb (31)
+REC  vbihwha (31)
+REC  vbcwp (31)
+REC  khdjiyr (31)
+END REC:  mpiiw (186)  weight:  310
+REC yqznxzs (86)
+REC  tdsaa (56)
+REC  sflycrq (56)
+REC  khzoaxo (56)
+REC  iwhdp (56)
+END REC:  yqznxzs (86)  weight:  310
+REC ahvumy (62)
+REC  zunvrg (62)
+REC  zzsjfh (62)
+REC  osqvb (62)
+REC  kcqkcz (62)
+END REC:  ahvumy (62)  weight:  310
+REC yycjr (265)
+REC  fipbn (15)
+REC  vgyzi (15)
+REC  btczn (15)
+END REC:  yycjr (265)  weight:  310
+REC iwmuonh (296)
+REC  omowchx (7)
+REC  qnzwa (7)
+END REC:  iwmuonh (296)  weight:  310
+REC newnawd (256)
+REC  jmeken (27)
+REC  hjcphe (27)
+END REC:  newnawd (256)  weight:  310
+REC  mpiiw (186)
+REC  yqznxzs (86)
+REC  ahvumy (62)
+REC  yycjr (265)
+REC  iwmuonh (296)
+REC  newnawd (256)
+END REC:  rssegj (27)  weight:  1178
+REC csfac (144)
+REC fwkpb (151)
+REC  ywuie (49)
+REC  pcsvt (49)
+END REC:  fwkpb (151)  weight:  249
+REC thgwtgt (129)
+REC  zhjvk (60)
+REC  ocxox (60)
+END REC:  thgwtgt (129)  weight:  249
+REC yuqdsv (135)
+REC  icicush (57)
+REC  obohol (57)
+END REC:  yuqdsv (135)  weight:  249
+REC ejggu (155)
+REC  cqgumz (47)
+REC  nxdselb (47)
+END REC:  ejggu (155)  weight:  249
+REC dporqyl (237)
+REC  jjkrqj (6)
+REC  zdtwo (6)
+END REC:  dporqyl (237)  weight:  249
+REC krommni (51)
+REC  xdffsw (99)
+REC  iuthq (99)
+END REC:  krommni (51)  weight:  249
+REC inswkfm (105)
+REC  hrqdm (72)
+REC  osovcq (72)
+END REC:  inswkfm (105)  weight:  249
+REC  fwkpb (151)
+REC  thgwtgt (129)
+REC  yuqdsv (135)
+REC  ejggu (155)
+REC  dporqyl (237)
+REC  krommni (51)
+REC  inswkfm (105)
+END REC:  csfac (144)  weight:  1107
+REC ymobi (1131)
+REC qsilzzo (146)
+REC  hjzjhbc (53)
+REC  cfbxssz (53)
+END REC:  qsilzzo (146)  weight:  252
+REC vxnrpq (94)
+REC  hkxsh (79)
+REC  jomewfa (79)
+END REC:  vxnrpq (94)  weight:  252
+REC yxgken (192)
+REC  pivhdjq (15)
+REC  gynyaeu (15)
+REC  ahlklti (15)
+REC  moxkfxc (15)
+END REC:  yxgken (192)  weight:  252
+REC  qsilzzo (146)
+REC  vxnrpq (94)
+REC  yxgken (192)
+END REC:  ymobi (1131)  weight:  1563
+REC iljmpy (1152)
+REC kxezytz (163)
+REC  jiufw (41)
+REC  oyabiot (41)
+END REC:  kxezytz (163)  weight:  245
+REC uzylso (85)
+REC  vkubjgp (80)
+REC  ovggdf (80)
+END REC:  uzylso (85)  weight:  245
+REC pifrouj (137)
+REC  solzny (54)
+REC  qvzmtfl (54)
+END REC:  pifrouj (137)  weight:  245
+REC  kxezytz (163)
+REC  uzylso (85)
+REC  pifrouj (137)
+END REC:  iljmpy (1152)  weight:  1537
+REC  rssegj (27)
+REC  csfac (144)
+REC  ymobi (1131)
+REC  iljmpy (1152)
+END REC:  trukr (5539)  weight:  7993
+REC nfxyklo (10174)
+REC btoap (47)
+REC ctixwt (201)
+REC  sbwadli (15)
+REC  hdnppxz (15)
+END REC:  ctixwt (201)  weight:  231
+REC jhylsh (51)
+REC  fkthtxx (60)
+REC  vqdbb (60)
+REC  sqwjo (60)
+END REC:  jhylsh (51)  weight:  231
+REC  ctixwt (201)
+REC  jhylsh (51)
+REC  cyrnme (231)
+REC  zezfk (231)
+END REC:  btoap (47)  weight:  761
+REC gfhpte (47)
+REC mcqabbl (51)
+REC  aizvg (45)
+REC  ivobx (45)
+REC  gbvowdh (45)
+REC  tyxuz (45)
+END REC:  mcqabbl (51)  weight:  231
+REC vazzmfm (155)
+REC  vuegi (19)
+REC  ztoof (19)
+REC  sompy (19)
+REC  wltqbe (19)
+END REC:  vazzmfm (155)  weight:  231
+REC pruiu (105)
+REC  azegzz (63)
+REC  trjqu (63)
+END REC:  pruiu (105)  weight:  231
+REC  mcqabbl (51)
+REC  vazzmfm (155)
+REC  pruiu (105)
+REC  rrymbf (231)
+END REC:  gfhpte (47)  weight:  589
+REC lalnt (236)
+REC fxludfk (115)
+REC  eajkem (65)
+REC  ettrul (65)
+END REC:  fxludfk (115)  weight:  245
+REC osdwa (85)
+REC  yvhgo (80)
+REC  ulgox (80)
+END REC:  osdwa (85)  weight:  245
+REC  fxludfk (115)
+REC  osdwa (85)
+REC  dlsrkm (245)
+END REC:  lalnt (236)  weight:  681
+REC  btoap (47)
+REC  gfhpte (47)
+REC  lalnt (236)
+END REC:  nfxyklo (10174)  weight:  10504
+REC  ztioqqe (83)
+REC  trukr (5539)
+REC  nfxyklo (10174)
+END REC:  rilgrr (75761)  weight:  91557
+REC fvrrpo (34174)
+REC vcedn (12462)
+REC ypmviuh (60)
+REC dxmqgds (238)
+REC  tbmyzr (30)
+REC  itmcnzc (30)
+END REC:  dxmqgds (238)  weight:  298
+REC veowdxy (133)
+REC  zkzcu (55)
+REC  zqljt (55)
+REC  pqwtmk (55)
+END REC:  veowdxy (133)  weight:  298
+REC ywnbh (98)
+REC  epufxrr (50)
+REC  ehurzzp (50)
+REC  ecyhx (50)
+REC  zbuzek (50)
+END REC:  ywnbh (98)  weight:  298
+REC zokot (238)
+REC  rsqeoo (30)
+REC  zdrfpo (30)
+END REC:  zokot (238)  weight:  298
+REC bfwovd (118)
+REC  mngbghh (90)
+REC  eowfj (90)
+END REC:  bfwovd (118)  weight:  298
+REC  dxmqgds (238)
+REC  veowdxy (133)
+REC  ywnbh (98)
+REC  zokot (238)
+REC  bfwovd (118)
+END REC:  ypmviuh (60)  weight:  885
+REC vobydav (1139)
+REC fhbbe (47)
+REC  tdqaege (45)
+REC  phkek (45)
+END REC:  fhbbe (47)  weight:  137
+REC  kvdvsr (137)
+REC  jxvcmyb (137)
+REC  fhbbe (47)
+END REC:  vobydav (1139)  weight:  1460
+REC axkokcp (287)
+REC lysjk (373)
+REC  nqagpl (24)
+REC  bwuyaa (24)
+END REC:  lysjk (373)  weight:  421
+REC bxnmwa (81)
+REC  krcry (85)
+REC  kdrfg (85)
+REC  ansxn (85)
+REC  plygyiz (85)
+END REC:  bxnmwa (81)  weight:  421
+REC vitgymq (145)
+REC  mqgxx (92)
+REC  iqxqmc (92)
+REC  wvfdz (92)
+END REC:  vitgymq (145)  weight:  421
+REC  lysjk (373)
+REC  bxnmwa (81)
+REC  vitgymq (145)
+END REC:  axkokcp (287)  weight:  886
+REC ntgxar (490)
+REC fzedbkl (142)
+REC  lncvfka (35)
+REC  bcylzy (35)
+END REC:  fzedbkl (142)  weight:  212
+REC qhinsi (24)
+REC  ziepacp (94)
+REC  yyimzla (94)
+END REC:  qhinsi (24)  weight:  212
+REC ewlkda (68)
+REC  ivotjym (72)
+REC  qhqhx (72)
+END REC:  ewlkda (68)  weight:  212
+REC aepgud (54)
+REC  mkqze (79)
+REC  qryoc (79)
+END REC:  aepgud (54)  weight:  212
+REC  fzedbkl (142)
+REC  qhinsi (24)
+REC  ewlkda (68)
+REC  qquge (212)
+REC  aepgud (54)
+END REC:  ntgxar (490)  weight:  990
+REC keuxhfl (340)
+REC woizpm (82)
+REC  axwrsy (80)
+REC  dyyzr (80)
+END REC:  woizpm (82)  weight:  242
+REC owqobwu (142)
+REC  xnbut (50)
+REC  qsprrb (50)
+END REC:  owqobwu (142)  weight:  242
+REC lzsnst (222)
+REC  zqfkx (10)
+REC  zikfenq (10)
+END REC:  lzsnst (222)  weight:  242
+REC xqnwm (90)
+REC  rjreuye (76)
+REC  weqoyg (76)
+END REC:  xqnwm (90)  weight:  242
+REC oujsw (38)
+REC  nalao (68)
+REC  gzchiz (68)
+REC  qtoqshz (68)
+END REC:  oujsw (38)  weight:  242
+REC  woizpm (82)
+REC  owqobwu (142)
+REC  lzsnst (222)
+REC  xqnwm (90)
+REC  oujsw (38)
+END REC:  keuxhfl (340)  weight:  914
+REC  ypmviuh (60)
+REC  vobydav (1139)
+REC  axkokcp (287)
+REC  ntgxar (490)
+REC  keuxhfl (340)
+END REC:  vcedn (12462)  weight:  14778
+REC nfuatoz (17)
+REC dgzfep (1135)
+REC tdjqll (95)
+REC  khmkmb (85)
+REC  qnjlq (85)
+REC  znqtjeb (85)
+END REC:  tdjqll (95)  weight:  350
+REC uyowaek (288)
+REC  swscx (31)
+REC  ytfqdj (31)
+END REC:  uyowaek (288)  weight:  350
+REC mbkvojh (260)
+REC  qcodb (45)
+REC  sjpywxy (45)
+END REC:  mbkvojh (260)  weight:  350
+REC rlvog (160)
+REC  gasjpi (95)
+REC  dhglkvc (95)
+END REC:  rlvog (160)  weight:  350
+REC  tdjqll (95)
+REC  uyowaek (288)
+REC  mbkvojh (260)
+REC  mbpmp (350)
+REC  rlvog (160)
+END REC:  dgzfep (1135)  weight:  2288
+REC dfulw (41)
+REC tdnsh (350)
+REC  ghfcln (62)
+REC  flmfqb (62)
+END REC:  tdnsh (350)  weight:  474
+REC jhdhgp (446)
+REC  etfguf (14)
+REC  jxdpg (14)
+END REC:  jhdhgp (446)  weight:  474
+REC iiogzk (390)
+REC  mqlgugi (21)
+REC  upsrogz (21)
+REC  dqtranb (21)
+REC  vzttjf (21)
+END REC:  iiogzk (390)  weight:  474
+REC zsxjki (86)
+REC  ygcjbtt (97)
+REC  ezghsl (97)
+REC  unsfg (97)
+REC  npabeh (97)
+END REC:  zsxjki (86)  weight:  474
+REC ttkwrfr (366)
+REC  btegf (27)
+REC  afjclgu (27)
+REC  uqmjp (27)
+REC  jixtgz (27)
+END REC:  ttkwrfr (366)  weight:  474
+REC eveeynr (380)
+REC  emknkrh (47)
+REC  ztfug (47)
+END REC:  eveeynr (380)  weight:  474
+REC  tdnsh (350)
+REC  jhdhgp (446)
+REC  iiogzk (390)
+REC  zsxjki (86)
+REC  ttkwrfr (366)
+REC  eveeynr (380)
+END REC:  dfulw (41)  weight:  2059
+REC jjwoc (1785)
+REC vwmgmf (46)
+REC  iwmeu (58)
+REC  qrrfj (58)
+REC  byfcat (58)
+END REC:  vwmgmf (46)  weight:  220
+REC vqenunc (56)
+REC  hisqsfr (82)
+REC  hyagspc (82)
+END REC:  vqenunc (56)  weight:  220
+REC vrbhapd (80)
+REC  zgvhx (70)
+REC  lytxt (70)
+END REC:  vrbhapd (80)  weight:  220
+REC sraenhx (210)
+REC  sjxpoy (5)
+REC  xiriq (5)
+END REC:  sraenhx (210)  weight:  220
+REC bwatw (104)
+REC  epbewj (58)
+REC  pbinkz (58)
+END REC:  bwatw (104)  weight:  220
+REC  vwmgmf (46)
+REC  vqenunc (56)
+REC  vrbhapd (80)
+REC  sraenhx (210)
+REC  bwatw (104)
+END REC:  jjwoc (1785)  weight:  2281
+REC pxqtr (2267)
+REC zrebihv (62)
+REC  ijfjve (72)
+REC  wseqnk (72)
+END REC:  zrebihv (62)  weight:  206
+REC fukzhnf (70)
+REC  tdwgne (68)
+REC  xkoyskt (68)
+END REC:  fukzhnf (70)  weight:  206
+REC reffy (174)
+REC  rrcgjc (16)
+REC  gytimq (16)
+END REC:  reffy (174)  weight:  206
+REC  zrebihv (62)
+REC  fukzhnf (70)
+REC  reffy (174)
+END REC:  pxqtr (2267)  weight:  2573
+REC unzfplq (1607)
+REC ifbpc (165)
+REC  jpfnrj (24)
+REC  yioozfb (24)
+END REC:  ifbpc (165)  weight:  213
+REC vmlltwb (23)
+REC  jrxjdr (95)
+REC  xuglsp (95)
+END REC:  vmlltwb (23)  weight:  213
+REC lftee (33)
+REC  illptaw (90)
+REC  hzzbk (90)
+END REC:  lftee (33)  weight:  213
+REC fklkx (191)
+REC  xuxxxmh (11)
+REC  tibjuc (11)
+END REC:  fklkx (191)  weight:  213
+REC fnvqq (181)
+REC  jxlak (16)
+REC  qotrtx (16)
+END REC:  fnvqq (181)  weight:  213
+REC wgrdy (33)
+REC  ctvjzip (45)
+REC  ovxjjgk (45)
+REC  vowidrd (45)
+REC  hvlpcew (45)
+END REC:  wgrdy (33)  weight:  213
+REC  ifbpc (165)
+REC  vmlltwb (23)
+REC  lftee (33)
+REC  fklkx (191)
+REC  fnvqq (181)
+REC  wgrdy (33)
+END REC:  unzfplq (1607)  weight:  2233
+REC lugeqg (2180)
+REC oxhuvih (75)
+REC  quyin (80)
+REC  pdbejtw (80)
+END REC:  oxhuvih (75)  weight:  235
+REC yaucaw (37)
+REC  vntnpm (99)
+REC  mopjtoj (99)
+END REC:  yaucaw (37)  weight:  235
+REC sguuvok (199)
+REC  bbjxvr (9)
+REC  drtzf (9)
+REC  lyopa (9)
+REC  nlewje (9)
+END REC:  sguuvok (199)  weight:  235
+REC  oxhuvih (75)
+REC  yaucaw (37)
+REC  sguuvok (199)
+END REC:  lugeqg (2180)  weight:  2491
+REC ghexz (2135)
+REC powvo (186)
+REC  szfroua (32)
+REC  seack (32)
+END REC:  powvo (186)  weight:  250
+REC onqfc (14)
+REC  kqfwwv (59)
+REC  gfagn (59)
+REC  woujjmo (59)
+REC  tkcqnb (59)
+END REC:  onqfc (14)  weight:  250
+REC hazyvie (132)
+REC  ekcrfnr (59)
+REC  excsvdc (59)
+END REC:  hazyvie (132)  weight:  250
+REC  powvo (186)
+REC  onqfc (14)
+REC  hazyvie (132)
+END REC:  ghexz (2135)  weight:  2467
+REC  dgzfep (1135)
+REC  dfulw (41)
+REC  jjwoc (1785)
+REC  pxqtr (2267)
+REC  unzfplq (1607)
+REC  lugeqg (2180)
+REC  ghexz (2135)
+END REC:  nfuatoz (17)  weight:  11167
+REC dsknoh (4511)
+REC btrafox (1442)
+REC hndngj (63)
+REC  rdgfmzc (51)
+REC  dnpap (51)
+REC  wnlma (51)
+REC  uggosj (51)
+END REC:  hndngj (63)  weight:  267
+REC qcispj (179)
+REC  ktvub (44)
+REC  qhduwgb (44)
+END REC:  qcispj (179)  weight:  267
+REC  hndngj (63)
+REC  vjnwg (267)
+REC  qcispj (179)
+END REC:  btrafox (1442)  weight:  1951
+REC dhsku (1631)
+REC lvrqmv (78)
+REC  ceypzh (63)
+REC  geygl (63)
+END REC:  lvrqmv (78)  weight:  204
+REC mtopo (156)
+REC  xiollwu (24)
+REC  nznkw (24)
+END REC:  mtopo (156)  weight:  204
+REC lldbah (14)
+REC  kzdewu (95)
+REC  qazahe (95)
+END REC:  lldbah (14)  weight:  204
+REC  lvrqmv (78)
+REC  mtopo (156)
+REC  lldbah (14)
+END REC:  dhsku (1631)  weight:  1879
+REC sjzvkno (1469)
+REC xboup (12)
+REC  knegpur (82)
+REC  khtlck (82)
+REC  axees (82)
+END REC:  xboup (12)  weight:  258
+REC mzfnhhp (208)
+REC  uefgi (25)
+REC  ydilofh (25)
+END REC:  mzfnhhp (208)  weight:  258
+REC ltnxno (118)
+REC  kxphfg (70)
+REC  phkrmkb (70)
+END REC:  ltnxno (118)  weight:  258
+REC  xboup (12)
+REC  mzfnhhp (208)
+REC  ltnxno (118)
+END REC:  sjzvkno (1469)  weight:  1807
+REC hmlcfic (1148)
+REC qerpj (187)
+REC  ajcozt (16)
+REC  bocgrjf (16)
+END REC:  qerpj (187)  weight:  219
+REC yorumsq (181)
+REC  qokveql (19)
+REC  clskgfl (19)
+END REC:  yorumsq (181)  weight:  219
+REC mtoet (127)
+REC  uokbqcq (46)
+REC  yrkcwxr (46)
+END REC:  mtoet (127)  weight:  219
+REC qiwpw (37)
+REC  kfvkh (91)
+REC  ahcqquf (91)
+END REC:  qiwpw (37)  weight:  219
+REC  qerpj (187)
+REC  yorumsq (181)
+REC  mtoet (127)
+REC  qiwpw (37)
+REC  afqujq (219)
+END REC:  hmlcfic (1148)  weight:  1899
+REC evemn (693)
+REC ttqtuts (19)
+REC  aeumjyu (97)
+REC  iykzt (97)
+REC  qakvmfc (97)
+END REC:  ttqtuts (19)  weight:  310
+REC ybtkcry (198)
+REC  kmurqns (56)
+REC  dzimoh (56)
+END REC:  ybtkcry (198)  weight:  310
+REC bwgyj (114)
+REC  apmbdgn (98)
+REC  fgqrqj (98)
+END REC:  bwgyj (114)  weight:  310
+REC uubtu (164)
+REC  itozwej (73)
+REC  vxbgygu (73)
+END REC:  uubtu (164)  weight:  310
+REC vaxyae (216)
+REC  ssebu (47)
+REC  vjiprx (47)
+END REC:  vaxyae (216)  weight:  310
+REC  ttqtuts (19)
+REC  ybtkcry (198)
+REC  bwgyj (114)
+REC  uubtu (164)
+REC  vaxyae (216)
+END REC:  evemn (693)  weight:  1404
+REC ainak (1568)
+REC zuhwge (61)
+REC  gyjui (82)
+REC  dhanhrw (82)
+END REC:  zuhwge (61)  weight:  225
+REC xhmwo (49)
+REC  hnpbcb (88)
+REC  wqvjpwa (88)
+END REC:  xhmwo (49)  weight:  225
+REC tuvdk (192)
+REC  zxuigx (11)
+REC  iyqsn (11)
+REC  carik (11)
+END REC:  tuvdk (192)  weight:  225
+REC  zuhwge (61)
+REC  xhmwo (49)
+REC  tuvdk (192)
+END REC:  ainak (1568)  weight:  1870
+REC kmpxcdm (38)
+REC vkfupb (93)
+REC  adtfnx (74)
+REC  aqkshy (74)
+REC  dugvl (74)
+END REC:  vkfupb (93)  weight:  315
+REC lbzwb (197)
+REC  zprutpl (59)
+REC  wjbbg (59)
+END REC:  lbzwb (197)  weight:  315
+REC mdipga (185)
+REC  otxfx (65)
+REC  pybtxv (65)
+END REC:  mdipga (185)  weight:  315
+REC bjkfclz (249)
+REC  pnlrs (33)
+REC  hyqxc (33)
+END REC:  bjkfclz (249)  weight:  315
+REC zuypk (123)
+REC  sxmobi (96)
+REC  xknbddc (96)
+END REC:  zuypk (123)  weight:  315
+REC  vkfupb (93)
+REC  lbzwb (197)
+REC  bgteja (315)
+REC  pgebb (315)
+REC  mdipga (185)
+REC  bjkfclz (249)
+REC  zuypk (123)
+END REC:  kmpxcdm (38)  weight:  1515
+REC  btrafox (1442)
+REC  dhsku (1631)
+REC  sjzvkno (1469)
+REC  hmlcfic (1148)
+REC  evemn (693)
+REC  ainak (1568)
+REC  kmpxcdm (38)
+END REC:  dsknoh (4511)  weight:  12500
+REC jexxxx (13676)
+REC qlrshn (52)
+REC bnkcs (172)
+REC  uxwov (27)
+REC  cdhfwg (27)
+END REC:  bnkcs (172)  weight:  226
+REC msvagxz (106)
+REC  dngxvvl (60)
+REC  fhyaa (60)
+END REC:  msvagxz (106)  weight:  226
+REC gaiqlzf (106)
+REC  pmbfnsr (60)
+REC  insxss (60)
+END REC:  gaiqlzf (106)  weight:  226
+REC cifgld (124)
+REC  rveuds (34)
+REC  dqpng (34)
+REC  thvqn (34)
+END REC:  cifgld (124)  weight:  226
+REC qzgapj (31)
+REC  ppgep (65)
+REC  bhmbpei (65)
+REC  odpwrq (65)
+END REC:  qzgapj (31)  weight:  226
+REC  bnkcs (172)
+REC  abxqias (226)
+REC  msvagxz (106)
+REC  gaiqlzf (106)
+REC  cifgld (124)
+REC  lsbzyx (226)
+REC  qzgapj (31)
+END REC:  qlrshn (52)  weight:  1043
+REC zqparby (962)
+REC hkauzoo (122)
+REC  kkvxx (34)
+REC  gjxrim (34)
+REC  qnmlqy (34)
+END REC:  hkauzoo (122)  weight:  224
+REC phtiu (84)
+REC  ubiyjs (35)
+REC  zicqv (35)
+REC  ymetywq (35)
+REC  zvrvvky (35)
+END REC:  phtiu (84)  weight:  224
+REC qtgmnht (136)
+REC  hmocs (44)
+REC  idhvcw (44)
+END REC:  qtgmnht (136)  weight:  224
+REC  hkauzoo (122)
+REC  phtiu (84)
+REC  qtgmnht (136)
+END REC:  zqparby (962)  weight:  1304
+REC etxasz (459)
+REC kihgxqn (205)
+REC  wxyaro (10)
+REC  ivbzfo (10)
+REC  hnhcg (10)
+END REC:  kihgxqn (205)  weight:  235
+REC phjdo (105)
+REC  qwhzogh (65)
+REC  plkvbhb (65)
+END REC:  phjdo (105)  weight:  235
+REC kmvyfai (79)
+REC  lgzam (78)
+REC  dlbtrjb (78)
+END REC:  kmvyfai (79)  weight:  235
+REC ghsmpke (175)
+REC  bioprb (30)
+REC  ewtsnjb (30)
+END REC:  ghsmpke (175)  weight:  235
+REC  kihgxqn (205)
+REC  phjdo (105)
+REC  kmvyfai (79)
+REC  ghsmpke (175)
+REC  nqtrrnh (235)
+END REC:  etxasz (459)  weight:  1258
+REC tpqkb (184)
+REC ggqro (146)
+REC  blwjcp (72)
+REC  ynleow (72)
+END REC:  ggqro (146)  weight:  290
+REC qvymrle (166)
+REC  daeabq (62)
+REC  eskrg (62)
+END REC:  qvymrle (166)  weight:  290
+REC cqurt (119)
+REC  sdigrgk (57)
+REC  qsdfdw (57)
+REC  inrkd (57)
+END REC:  cqurt (119)  weight:  290
+REC ntogi (230)
+REC  biyngj (30)
+REC  lwwuq (30)
+END REC:  ntogi (230)  weight:  290
+REC hbozd (83)
+REC  lgkbqm (69)
+REC  ranrjjb (69)
+REC  vioxr (69)
+END REC:  hbozd (83)  weight:  290
+REC  ggqro (146)
+REC  qvymrle (166)
+REC  cqurt (119)
+REC  ntogi (230)
+REC  hbozd (83)
+END REC:  tpqkb (184)  weight:  928
+REC  qlrshn (52)
+REC  zqparby (962)
+REC  etxasz (459)
+REC  tpqkb (184)
+END REC:  jexxxx (13676)  weight:  15333
+REC  vcedn (12462)
+REC  nfuatoz (17)
+REC  dsknoh (4511)
+REC  jexxxx (13676)
+END REC:  fvrrpo (34174)  weight:  64840
+REC zcmlgn (75203)
+REC wwtif (15)
+1894
+REC xsgud (904)
+330
+330
+330
+REC  ppmjtea (58)
+REC  spyosq (300)
+REC  ozdamth (290)
+END REC:  xsgud (904)  weight:  1552
+REC qxvnf (724)
+REC uchwojr (55)
+195
+195
+195
+195
+REC  uchwojr (55)
+REC  jxknrj (195)
+REC  kasjbl (195)
+REC  hyzcrj (65)
+REC  secjdhk (29)
+REC  vikokw (77)
+END REC:  qxvnf (724)  weight:  1340
+REC riimx (277)
+231
+231
+231
+231
+231
+231
+231
+REC  zkdsnb (133)
+REC  rhtltex (85)
+REC  jcyvs (189)
+REC  dwpmy (133)
+REC  shmuahd (221)
+REC  zvskx (111)
+REC  szzqsmn (147)
+END REC:  riimx (277)  weight:  1296
+REC kbpdvgx (1828)
+REC  nzokis (33)
+REC  trdrc (33)
+END REC:  kbpdvgx (1828)  weight:  1894
+REC hmuvntc (1165)
+243
+243
+243
+REC  xanuprn (197)
+REC  hyyczqe (163)
+REC  oniakw (97)
+END REC:  hmuvntc (1165)  weight:  1622
+REC opbvo (18)
+268
+268
+268
+268
+268
+268
+268
+REC  hppnn (232)
+REC  llzhmol (84)
+REC  tzhxfhh (186)
+REC  svsfd (142)
+REC  xjqhzdl (194)
+REC  tjcmctp (258)
+REC  njfrq (220)
+END REC:  opbvo (18)  weight:  1334
+REC  irqxygl (1812)
+REC  xsgud (904)
+REC  qxvnf (724)
+REC  riimx (277)
+REC  kbpdvgx (1828)
+REC  hmuvntc (1165)
+REC  opbvo (18)
+END REC:  wwtif (15)  weight:  6743
+REC spgebj (5477)
+REC liprz (837)
+REC uogjfe (102)
+REC  eiqee (88)
+REC  swimi (88)
+END REC:  uogjfe (102)  weight:  278
+REC jrkye (88)
+REC  ptdmvq (95)
+REC  fcfsd (95)
+END REC:  jrkye (88)  weight:  278
+REC wcswjri (228)
+REC  jcnfvhv (25)
+REC  yprbzn (25)
+END REC:  wcswjri (228)  weight:  278
+REC ffqjbfe (102)
+REC  hbtzel (88)
+REC  xjcil (88)
+END REC:  ffqjbfe (102)  weight:  278
+REC  uogjfe (102)
+REC  jrkye (88)
+REC  wcswjri (228)
+REC  ffqjbfe (102)
+END REC:  liprz (837)  weight:  1357
+REC sudojso (34)
+REC pqbatbl (279)
+REC  ivztoux (26)
+REC  czifkmc (26)
+REC  tyfdd (26)
+REC  ucchch (26)
+END REC:  pqbatbl (279)  weight:  383
+REC fmsede (303)
+REC  iecpcid (20)
+REC  aqiyzjv (20)
+REC  pcrxyco (20)
+REC  htwlpi (20)
+END REC:  fmsede (303)  weight:  383
+REC ijqfwj (247)
+REC  auqkz (68)
+REC  cnmxf (68)
+END REC:  ijqfwj (247)  weight:  383
+REC jhwxxmc (79)
+REC  ruxlsl (76)
+REC  ghvxa (76)
+REC  hlukdep (76)
+REC  ozrban (76)
+END REC:  jhwxxmc (79)  weight:  383
+REC uciitam (247)
+REC  mfmnp (68)
+REC  uzybpoz (68)
+END REC:  uciitam (247)  weight:  383
+REC  pqbatbl (279)
+REC  fmsede (303)
+REC  ijqfwj (247)
+REC  jhwxxmc (79)
+REC  uciitam (247)
+END REC:  sudojso (34)  weight:  1189
+REC vqpkcu (860)
+REC ndiyxee (96)
+REC  cjexce (89)
+REC  xixzhx (89)
+REC  gdhqehb (89)
+END REC:  ndiyxee (96)  weight:  363
+REC lhgstq (193)
+REC  uxlbo (85)
+REC  tsrgg (85)
+END REC:  lhgstq (193)  weight:  363
+REC zfzybq (55)
+REC  pdfnqi (77)
+REC  dlolw (77)
+REC  pdiie (77)
+REC  lheawf (77)
+END REC:  zfzybq (55)  weight:  363
+REC  ndiyxee (96)
+REC  lhgstq (193)
+REC  zfzybq (55)
+END REC:  vqpkcu (860)  weight:  1204
+REC qntfrg (1574)
+REC jndpmw (43)
+REC  yjlat (41)
+REC  cumfazk (41)
+END REC:  jndpmw (43)  weight:  125
+REC pnxeoq (69)
+REC  sbuzab (28)
+REC  ylunw (28)
+END REC:  pnxeoq (69)  weight:  125
+REC  jndpmw (43)
+REC  pnxeoq (69)
+REC  tujlwef (125)
+END REC:  qntfrg (1574)  weight:  1811
+REC  liprz (837)
+REC  sudojso (34)
+REC  vqpkcu (860)
+REC  qntfrg (1574)
+END REC:  spgebj (5477)  weight:  8782
+REC awkuix (12629)
+REC zwysutd (23)
+REC  cfneir (69)
+REC  mssvilz (69)
+END REC:  zwysutd (23)  weight:  161
+REC ppfgq (71)
+REC  fdnlfw (45)
+REC  nehjwq (45)
+END REC:  ppfgq (71)  weight:  161
+REC zvledr (129)
+REC  jacnhvn (16)
+REC  flxmb (16)
+END REC:  zvledr (129)  weight:  161
+REC  zwysutd (23)
+REC  ppfgq (71)
+REC  ftbil (161)
+REC  zvledr (129)
+END REC:  awkuix (12629)  weight:  13013
+REC  wwtif (15)
+REC  spgebj (5477)
+REC  awkuix (12629)
+END REC:  zcmlgn (75203)  weight:  93324
