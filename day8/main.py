@@ -10,6 +10,7 @@ if __name__ == '__main__':
     input = sys.stdin.readlines()
     lines = []
     registers = dict()
+    highest = 0
 
     for i in input:
         lines.append(i.strip().split(' '))
@@ -46,4 +47,8 @@ if __name__ == '__main__':
             if operand != value:
                 registers[register] = calc_new_val(registers[register], change_by, dec)
 
+        if registers[register] > highest:
+            highest = registers[register]
+
     print("solution part1:", max(registers.values()))
+    print("solution part2: ", highest)
