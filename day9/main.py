@@ -2,12 +2,11 @@ import sys
 
 if __name__ == '__main__':
     input = sys.stdin.read()
-    print(input.strip())
-
     final_score = 0
     tmp_score = 0
     garbage_mode = False
     skip_next = False
+    garbage_chars = 0
 
     for c in input:
         if garbage_mode != True:
@@ -27,5 +26,7 @@ if __name__ == '__main__':
                 garbage_mode = False
             else:
                 skip_next = False
+                garbage_chars += 1
 
-    print(final_score)
+    print("solution part1:",final_score)
+    print("solution part2:", garbage_chars)
