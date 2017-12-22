@@ -1,27 +1,11 @@
 import sys
 import copy
+from operator import xor
+from functools import reduce
 
-def reverse_sublist(lst, start, end):
-    lst[start:end] = lst[start:end][::-1]
-    return lst
-
-if __name__ == '__main__':
-    input = sys.stdin.read()
-
-    lengths = []
-    input = input.split(',')
-    for i in input:
-        lengths.append(int(i.strip()))
-
-    int_list = []
-    for i in range(0, 256):
-        int_list.append(i)
-
-    skip_size = 0
-    idx = 0
+def hash(lengths, int_list, idx, skip_size, round, number_of_rounds):
 
     for l in lengths:
-        # reverse_sublist(int_list, idx, l)
         sub_list = []
         indices = []
         for i in range(idx, idx + l):
@@ -37,4 +21,66 @@ if __name__ == '__main__':
         idx = (idx + l + skip_size) % len(int_list)
         skip_size += 1
 
-    print("solution task1:", int_list[0] * int_list[1])
+    round += 1
+    if round == number_of_rounds:
+        return int_list
+    else:
+        hash(lengths, int_list, idx, skip_size, round, number_of_rounds)
+    return int_list
+
+if __name__ == '__main__':
+    inp = sys.stdin.read()
+    input = copy.copy(inp)
+
+    lengths = []
+    input = input.split(',')
+    for i in input:
+        lengths.append(int(i.strip()))
+
+    int_list = []
+    for i in range(0, 256):
+        int_list.append(i)
+
+    skip_size = 0
+    idx = 0
+    round = 0
+
+    sparse_hash = hash(lengths, int_list, idx, skip_size, round, 1)
+    print("solution task1:", sparse_hash[0] * sparse_hash[1])
+
+    ascii_input = []
+
+    for i in inp.strip():
+        ascii_input.append(ord(i))
+
+    seq = [17, 31, 73, 47, 23]
+    ascii_input += seq
+
+    skip_size = 0
+    idx = 0
+    round = 0
+
+    int_list = []
+    for i in range(0, 256):
+        int_list.append(i)
+
+    sparse_hash = hash(ascii_input, int_list, idx, skip_size, round, 64)
+
+    dense_hash = []
+    hash_cnt = 0
+    tmp = []
+    for i in sparse_hash:
+        if hash_cnt == 15:
+            tmp.append(int(i))
+            dense_hash.append(reduce(xor, tmp))
+            hash_cnt = 0
+            tmp = []
+        else:
+            tmp.append(int(i))
+            hash_cnt += 1
+
+    hex_dense_hash = []
+    for i in dense_hash:
+        hex_dense_hash.append(format(i, '02x'))
+
+    print("solution part2:",''.join(str(e) for e in hex_dense_hash))
