@@ -8,6 +8,7 @@ if __name__ == '__main__':
     # https://www.redblobgames.com/grids/hexagons/
 
     coords = [0, 0, 0]
+    furthest = 0
 
     for i in input:
         dir = i.strip()
@@ -31,4 +32,10 @@ if __name__ == '__main__':
             coords[0] -= 1
             coords[2] += 1
 
+        curr = max(abs(coords[0]), abs(coords[1]), abs(coords[2]))
+
+        if curr > furthest:
+            furthest = curr
+
     print("part1:",max(abs(coords[0]), abs(coords[1]), abs(coords[2])))
+    print("part2:", furthest)
