@@ -3,10 +3,7 @@ import math
 
 if __name__ == '__main__':
 
-    # Saves a list of strings containing the lines
     input2 = sys.stdin.readlines()
-    # print(type(input2))
-
     num_of_valid = 0
 
     # Part 1
@@ -24,9 +21,8 @@ if __name__ == '__main__':
 
     print(num_of_valid)
 
-    num_of_valid = 0
-
     # Part 2
+    num_of_valid = 0
     for s in input2:
         line = s.strip().split(' ')
         valid = True

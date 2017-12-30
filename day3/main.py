@@ -45,4 +45,4 @@ if __name__ == '__main__':
     print(sol)
 
     # Part2
-    https://oeis.org/A141481
+    # https://oeis.org/A141481
