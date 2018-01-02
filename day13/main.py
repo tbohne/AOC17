@@ -1,31 +1,15 @@
 import sys
 
-if __name__ == '__main__':
-
-    input = sys.stdin.read().strip().replace(' ', '')
-    test = input.split('\n')
-    depth_range = dict()
-    for i in test:
-        tmp = i.split(':')
-        depth_range[tmp[0]] = int(tmp[1])
-        last = tmp[0]
-
+def calc_severity(depth_range):
     scanner_pos = dict()
     up = dict()
     for k in depth_range.keys():
         scanner_pos[k] = 0
         up[k] = True
 
-    # print(scanner_pos)
-
     severity = 0
-
     for i in range(0, int(last) + 1):
-
-        # print("picosec and also my pos:", i)
-        # print("scanner_pos:", scanner_pos)
         if str(i) in scanner_pos.keys() and scanner_pos[str(i)] == 0:
-            # print("collision:", i, depth_range[str(i)])
             severity += i * depth_range[str(i)]
 
         for k in scanner_pos.keys():
@@ -37,6 +21,16 @@ if __name__ == '__main__':
                 scanner_pos[k] -= 1
                 if scanner_pos[k] == 0:
                     up[k] = True
+    print("solution part1:", severity)
 
-        # print(scanner_pos)
-    print("severity:", severity)
+if __name__ == '__main__':
+
+    input = sys.stdin.read().strip().replace(' ', '')
+    test = input.split('\n')
+    depth_range = dict()
+    for i in test:
+        tmp = i.split(':')
+        depth_range[tmp[0]] = int(tmp[1])
+        last = tmp[0]
+
+    calc_severity(depth_range)
