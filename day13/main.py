@@ -34,10 +34,9 @@ def calc_delay(depth_range, last):
 
 if __name__ == '__main__':
 
-    input = sys.stdin.read().strip().replace(' ', '')
-    test = input.split('\n')
+    input = sys.stdin.read().strip().replace(' ', '').split('\n')
     depth_range = dict()
-    for i in test:
+    for i in input:
         tmp = i.split(':')
         depth_range[tmp[0]] = int(tmp[1])
         last = tmp[0]
