@@ -24,7 +24,7 @@ def calc_severity(depth_range):
     print("solution part1:", severity)
 
 
-def calc_fewest_number_of_picoseconds(depth_range):
+def calc_fewest_number_of_picoseconds_brute_force(depth_range):
     scanner_pos = dict()
     up = dict()
     for k in depth_range.keys():
@@ -59,11 +59,51 @@ def calc_fewest_number_of_picoseconds(depth_range):
             if picosec > delay:
                 mypos += 1
             picosec += 1
-        if delay % 450 == 0:
-            print(delay)
 
     print("delay:", delay + 1)
 
+
+def calc_fewest_number_of_picoseconds(depth_range):
+
+    severity = True
+    delay = 0
+    picosec = 0
+
+    while severity == True:
+
+        picosec = delay
+        mypos = 0
+        severity = False
+
+        while mypos <= int(last):
+            if str(mypos) in depth_range.keys():
+                scanner = picosec % (2 * (depth_range[str(mypos)] - 1))
+
+                # up = True
+                # scanner = 0
+                # for k in range(0, picosec):
+                #     if up:
+                #         scanner += 1
+                #         if scanner == depth_range[str(mypos)] - 1:
+                #             up = False
+                #     else:
+                #         scanner -= 1
+                #         if scanner == 0:
+                #             up = True
+
+                # print("mypos:", mypos, "scanner:", scanner, "pc:", picosec)
+                print(delay)
+                if scanner == 0:
+                    severity = True
+            mypos += 1
+            picosec += 1
+
+        if severity:
+            delay += 1
+
+    print("MP:", mypos)
+    print("pc:", picosec)
+    print("delay:", delay)
 
 if __name__ == '__main__':
 
