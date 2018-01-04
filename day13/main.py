@@ -1,31 +1,16 @@
 import sys
 
-def calc_severity(depth_range):
-    scanner_pos = dict()
-    up = dict()
-    for k in depth_range.keys():
-        scanner_pos[k] = 0
-        up[k] = True
-
+def calc_severity(depth_range, last):
     severity = 0
     for i in range(0, int(last) + 1):
-        if str(i) in scanner_pos.keys() and scanner_pos[str(i)] == 0:
-            severity += i * depth_range[str(i)]
+        if str(i) in depth_range.keys():
+            scanner = i % (2 * (depth_range[str(i)] - 1))
+            if scanner == 0:
+                severity += i * depth_range[str(i)]
 
-        for k in scanner_pos.keys():
-            if up[k]:
-                scanner_pos[k] += 1
-                if scanner_pos[k] == depth_range[k] - 1:
-                    up[k] = False
-            else:
-                scanner_pos[k] -= 1
-                if scanner_pos[k] == 0:
-                    up[k] = True
     print("solution part1:", severity)
 
-
-def calc_delay(depth_range):
-
+def calc_delay(depth_range, last):
     severity = True
     delay = 0
     picosec = 0
@@ -57,5 +42,5 @@ if __name__ == '__main__':
         depth_range[tmp[0]] = int(tmp[1])
         last = tmp[0]
 
-    calc_severity(depth_range)
-    calc_delay(depth_range)
+    calc_severity(depth_range, last)
+    calc_delay(depth_range, last)
