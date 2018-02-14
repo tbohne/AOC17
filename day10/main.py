@@ -4,7 +4,6 @@ from operator import xor
 from functools import reduce
 
 def hash(lengths, int_list, idx, skip_size, round, number_of_rounds):
-
     for l in lengths:
         sub_list = []
         indices = []
@@ -28,30 +27,7 @@ def hash(lengths, int_list, idx, skip_size, round, number_of_rounds):
         hash(lengths, int_list, idx, skip_size, round, number_of_rounds)
     return int_list
 
-if __name__ == '__main__':
-    inp = sys.stdin.read()
-    input = copy.copy(inp)
-
-    lengths = []
-    input = input.split(',')
-    for i in input:
-        lengths.append(int(i.strip()))
-
-    int_list = []
-    for i in range(0, 256):
-        int_list.append(i)
-
-    skip_size = 0
-    idx = 0
-    round = 0
-
-    sparse_hash = hash(lengths, int_list, idx, skip_size, round, 1)
-    print("solution task1:", sparse_hash[0] * sparse_hash[1])
-
-    ascii_input = []
-
-    for i in inp.strip():
-        ascii_input.append(ord(i))
+def dense_hash(ascii_input):
 
     seq = [17, 31, 73, 47, 23]
     ascii_input += seq
@@ -83,4 +59,32 @@ if __name__ == '__main__':
     for i in dense_hash:
         hex_dense_hash.append(format(i, '02x'))
 
+    return hex_dense_hash
+
+
+if __name__ == '__main__':
+    inp = sys.stdin.read()
+    input = copy.copy(inp)
+
+    lengths = []
+    input = input.split(',')
+    for i in input:
+        lengths.append(int(i.strip()))
+
+    int_list = []
+    for i in range(0, 256):
+        int_list.append(i)
+
+    skip_size = 0
+    idx = 0
+    round = 0
+
+    sparse_hash = hash(lengths, int_list, idx, skip_size, round, 1)
+    print("solution task1:", sparse_hash[0] * sparse_hash[1])
+
+    ascii_input = []
+    for i in inp.strip():
+        ascii_input.append(ord(i))
+
+    hex_dense_hash = dense_hash(ascii_input)
     print("solution part2:",''.join(str(e) for e in hex_dense_hash))
