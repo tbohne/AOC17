@@ -31,7 +31,6 @@ def part2(gen_a, gen_b):
     cnt_b = 0
 
     while cnt_a < int(5e6) or cnt_b < int(5e6):
-
         prev_a = prev_a * fac_a
         prev_b = prev_b * fac_b
         prev_a %= divisor
@@ -55,7 +54,6 @@ def part2(gen_a, gen_b):
 
 
 if __name__ == '__main__':
-
     gen_a_start_val = 873
     gen_b_start_val = 583
     fac_a = 16807
