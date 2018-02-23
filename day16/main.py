@@ -26,6 +26,8 @@ if __name__ == '__main__':
 
             for i in range(spin_size):
                 tmp_program += rev_seq[i]
+            # restores the old order
+            tmp_program = tmp_program[::-1]
             for i in range(len(program_seq) - spin_size):
                 tmp_program += program_seq[i]
 
