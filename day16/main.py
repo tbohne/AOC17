@@ -10,11 +10,7 @@ def swap_elements(program_seq, move):
     program_seq = ''.join(tmp_seq)
     return program_seq
 
-if __name__ == '__main__':
-
-    program_seq = 'abcdefghijklmnop'
-    dance_moves = sys.stdin.read().strip().split(',')
-
+def part_one(program_seq):
     for move in dance_moves:
         move = move.replace(' ', '')
         # spin case
@@ -46,7 +42,21 @@ if __name__ == '__main__':
             for c in move:
                 if c in program_seq:
                     indices.append(program_seq.find(c))
-            print(indices)
             program_seq = swap_elements(program_seq, indices)
 
-    print(program_seq)
+    return program_seq
+
+if __name__ == '__main__':
+    program_seq = 'abcdefghijklmnop'
+    dance_moves = sys.stdin.read().strip().split(',')
+
+    print("solution part1: " + part_one(program_seq))
+
+    # There is obviously a cycle throughout the iterations -
+    # every 36 iterations the sequence is back to the original one.
+    # Therefore we just have to do n iterations where n is the remainder
+    # of 10e9 % 36.
+    remainder = 10e9 % 36
+    for i in range(int(remainder)):
+        program_seq = part_one(program_seq)
+    print("solution part2: " + program_seq)
