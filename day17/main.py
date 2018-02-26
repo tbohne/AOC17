@@ -1,14 +1,16 @@
-if __name__ == '__main__':
-
+def spinlock(steps, times):
     seq = []
     seq.append("0")
-    steps = 394
     pos = 0
-
-    print(seq)
-
-    for i in range(1, 2018):
+    for i in range(1, times):
         pos = (pos + steps) % len(seq)
         seq.insert(pos + 1, str(i))
         pos += 1
-        print(seq)
+    return seq
+
+if __name__ == '__main__':
+    steps = 394
+    times = 2018
+    seq = spinlock(steps, times)
+    idx = seq.index("2017") + 1
+    print("solution part1: " + seq[idx])
