@@ -1,5 +1,10 @@
 import sys
 
+def get_value(tmp):
+    if not tmp.replace("-", "").isdigit():
+        tmp = int(registers[tmp])
+    return int(tmp)
+
 if __name__ == '__main__':
 
     instructions = sys.stdin.readlines()
@@ -11,7 +16,6 @@ if __name__ == '__main__':
 
     freq_of_last_sound = 0
     cnt = 0
-    final = ""
 
     while (cnt < len(instructions)):
 
@@ -19,68 +23,40 @@ if __name__ == '__main__':
 
         if 'snd' in instruction:
             frequency = instruction.split(" ")[1]
-
-            if not frequency.replace("-", "").isdigit():
-                frequency = int(registers[frequency])
-
-            freq_of_last_sound = int(frequency)
+            freq_of_last_sound = get_value(frequency)
         elif 'set' in instruction:
             register = instruction.split(" ")[1]
             value = instruction.split(" ")[2]
-
-            if not value.replace("-", "").isdigit():
-                value = int(registers[value])
-
-            registers[register] = int(value)
+            registers[register] = get_value(value)
         elif 'add' in instruction:
             register = instruction.split(" ")[1]
             value = instruction.split(" ")[2]
-
-            if not value.replace("-", "").isdigit():
-                value = int(registers[value])
-
-            registers[register] += int(value)
+            registers[register] += get_value(value)
         elif 'mul' in instruction:
             register = instruction.split(" ")[1]
             value = instruction.split(" ")[2]
-
-            if not value.replace("-", "").isdigit():
-                value = int(registers[value])
-
-            registers[register] *= int(value)
+            registers[register] *= get_value(value)
         elif 'mod' in instruction:
             register = instruction.split(" ")[1]
             value = instruction.split(" ")[2]
-
-            if not value.replace("-", "").isdigit():
-                value = int(registers[value])
-
-            registers[register] %= int(value)
+            registers[register] %= get_value(value)
         elif 'rcv' in instruction:
             value = instruction.split(" ")[1]
-
-            if not value.replace("-", "").isdigit():
-                values = int(registers[value])
+            value = get_value(value)
 
             if value != 0:
-                if final == "":
-                    final = freq_of_last_sound
-                    print("recover {}".format(freq_of_last_sound))
+                final = freq_of_last_sound
+                print("recover {}".format(freq_of_last_sound))
+                break
 
         elif 'jgz' in instruction:
-            val1 = instruction.split(" ")[1]
-            val2 = instruction.split(" ")[2]
+            x_val = instruction.split(" ")[1]
+            y_val = instruction.split(" ")[2]
+            x_val = get_value(x_val)
+            y_val = get_value(y_val)
 
-            if not val1.replace("-", "").isdigit():
-                val1 = int(registers[val1])
-            if not val2.replace("-", "").isdigit():
-                val2 = int(registers[val2])
-
-            val1 = int(val1)
-            val2 = int(val2)
-
-            if val1 > 0:
-                cnt += val2
+            if x_val > 0:
+                cnt += y_val
                 continue
 
         cnt += 1
