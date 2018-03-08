@@ -14,20 +14,26 @@ if __name__ == '__main__':
         grid.append(row)
 
     start_idx = find_start(grid[0])
-    print(start_idx)
     row = 0
     col = start_idx
     y_pos = 0
     x_pos = start_idx
     direction = 'd'
     res = ""
+    steps = 0
+    steps_since_last_letter = 1
+    pos_before = (0, 0)
 
     while True:
-        print("dir: " + direction + " pos : " + str(y_pos) + " - " + str(x_pos))
+
+        if pos_before != (y_pos, x_pos):
+            steps_since_last_letter += 1
+
+        pos_before = (y_pos, x_pos)
+
         if direction == 'd':
             if y_pos + 1 >= len(grid) or x_pos >= len(grid[y_pos + 1]) or grid[y_pos + 1][x_pos].strip() == "":
                 if x_pos - 1 >= 0 and grid[y_pos][x_pos - 1].strip() != "":
-                    print(grid[y_pos][x_pos - 1])
                     direction = 'l'
                     continue
                 else:
@@ -68,11 +74,13 @@ if __name__ == '__main__':
 
         if grid[y_pos][x_pos] in 'ABCDEFGHIJKLMNOPQRSTUVWXYZ':
             if grid[y_pos][x_pos] in res:
-                print(res)
+                print("solution part1: " + res)
+                print("solution part2: " + str(steps))
                 break
 
-            print("add: " + grid[y_pos][x_pos])
             res += grid[y_pos][x_pos]
+            steps += steps_since_last_letter
+            steps_since_last_letter = 0
 
         elif grid[y_pos][x_pos] == '+':
 
