@@ -1,10 +1,10 @@
 import sys
 
-def extract_particles(buff):
+def extract_particles(input):
 
     particles = []
 
-    for particle in buff:
+    for particle in input:
         p = particle.strip().split(" ")
         pos = p[0].split("<")[1].split(">")[0].split(",")
         vel = p[1].split("<")[1].split(">")[0].split(",")
@@ -15,12 +15,10 @@ def extract_particles(buff):
 
 if __name__ == '__main__':
 
-    buff = sys.stdin.readlines()
-    particles = extract_particles(buff)
-
+    input = sys.stdin.readlines()
+    particles = extract_particles(input)
     min_dist = sys.maxsize
     min_part = sys.maxsize
-
     collisions = []
 
     # particle := (position, velocity, acceleration)
@@ -50,17 +48,19 @@ if __name__ == '__main__':
             if particles[i][0] in curr_pos and i not in collisions:
                 tick_collisions.append(i)
 
-                for key, val in curr_positions:
-                    if key == particles[i][0]:
-                        if val not in tick_collisions and particles[i][0] not in collisions:
-                            tick_collisions.append(val)
+                for pos, idx in curr_positions:
+                    if pos == particles[i][0]:
+                        if idx not in tick_collisions and particles[i][0] not in collisions:
+                            tick_collisions.append(idx)
             else:
                 curr_positions.append((particles[i][0], i))
 
         collisions += tick_collisions
 
     for i in range(0, len(particles)):
-        dist = abs(int(particles[i][0][0])) + abs(int(particles[i][0][1])) + abs(int(particles[i][0][2]))
+        dist = abs(
+            int(particles[i][0][0])) + abs(int(particles[i][0][1])) + abs(int(particles[i][0][2])
+        )
 
         if dist < min_dist:
             min_dist = dist
