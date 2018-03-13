@@ -1,5 +1,5 @@
 # AOC17
-My intuitive solutions to this years http://adventofcode.com/.
+My intuitive solutions to this year's http://adventofcode.com/.
 
 Just for fun and getting comfortable with python.
 
