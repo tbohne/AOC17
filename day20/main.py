@@ -21,9 +21,14 @@ if __name__ == '__main__':
     min_dist = sys.maxsize
     min_part = sys.maxsize
 
+    collisions = []
+
     # particle := (position, velocity, acceleration)
     # using 1000 ticks
     for _ in range(0, 1000):
+
+        curr_positions = []
+        tick_collisions = []
 
         for i in range(0, len(particles)):
 
@@ -40,6 +45,20 @@ if __name__ == '__main__':
             # Increase the Z position by the Z velocity.
             particles[i][0][2] = int(particles[i][0][2]) + int(particles[i][1][2])
 
+            curr_pos = [x[0] for x in curr_positions]
+
+            if particles[i][0] in curr_pos and i not in collisions:
+                tick_collisions.append(i)
+
+                for key, val in curr_positions:
+                    if key == particles[i][0]:
+                        if val not in tick_collisions and particles[i][0] not in collisions:
+                            tick_collisions.append(val)
+            else:
+                curr_positions.append((particles[i][0], i))
+
+        collisions += tick_collisions
+
     for i in range(0, len(particles)):
         dist = abs(int(particles[i][0][0])) + abs(int(particles[i][0][1])) + abs(int(particles[i][0][2]))
 
@@ -47,4 +66,5 @@ if __name__ == '__main__':
             min_dist = dist
             min_part = i
 
-    print("solution part1: particle {} with a distance of {}.".format(min_part, min_dist))
+    print("solution part1: {}".format(min_part))
+    print("solution part2: {}".format(len(particles) - len(collisions)))
